@@ -2,10 +2,11 @@
 
 Created by Dan, the Star Coin Alchemist and Astrological Alchemist.
 
-This repository contains original line art drawings by FortuneCord, featuring the "Fortune Cord" visual system.  
-Series include: Taiji, Bagua, Hetu Luoshu, 12 Zodiac Signs, 28 Mansions, Big Dipper, Little Dipper, Orion, Southern Cross, and more.
+This repository contains original line art based on the **FORTUNE CORD visual system**: a cord threading a coin.
 
-All images are black and white line art, with coin motifs (floral, fruit, plush, gem) replacing star points.  
+Reinterprets: Taiji, Bagua, Hetu Luoshu, 12 Zodiac Signs, 28 Mansions, Big Dipper, Little Dipper, Orion, Southern Cross, and more.
+
+Coin motifs (floral, fruit, furry, gem) replace star points; the cord ties them together.
 
 These works are protected under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
