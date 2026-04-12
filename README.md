@@ -1,5 +1,7 @@
 # FortuneCord Artworks – Black and White Line Art
 
+*The Map of Wealth, Written in the Stars.*
+
 Created by Dan, the Star Coin Alchemist and Astrological Alchemist.
 
 This repository contains original line art based on the **FORTUNE CORD visual system**: a cord threading a coin.
