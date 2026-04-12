@@ -8,9 +8,12 @@ Reinterprets: Taiji, Bagua, Hetu Luoshu, 12 Zodiac Signs, 28 Mansions, Big Dippe
 
 Coin motifs (floral, fruit, furry, gem) replace star points; the cord ties them together.
 
-These works are protected under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+Some works in this repository are protected under a Creative Commons Attribution-NonCommercial 4.0 International License.The full license text is available at: https://creativecommons.org/licenses/by-nc/4.0/.
+
+You are free to share and adapt these works, provided you give appropriate credit to the author (Chen Dan / FortuneCord), and not for commercial purposes.
 
 Interested in applying the Fortune Cord visual system to your own reinterpretations of Taiji, Zodiac, or astral symbols? We welcome inquiries regarding collaboration or licensing.
+
 
 **Licensing & Inquiries:**  
 Sealofwealth [at] outlook [dot] com  
