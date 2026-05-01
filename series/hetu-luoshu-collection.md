@@ -1,5 +1,7 @@
 # Hetu Luoshu Collection - Star Coin Art
 
+Explore **Hetu Luoshu star coin ceiling art** – ancient Chinese mathematical cosmology, the mystical diagram of cosmic order. Ideal for **starlight headliners**, **architectural ceilings**, and **cultural luxury decor**.
+
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-hetu-1.jpg" alt="fortune cord coin hetu 1 line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-hetu-2.jpg" alt="fortune cord coin hetu 2 line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-hetu-3.jpg" alt="fortune cord coin hetu 3 line art, Star Coin Ceiling pattern">
