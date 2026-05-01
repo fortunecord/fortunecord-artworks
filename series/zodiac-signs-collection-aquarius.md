@@ -1,4 +1,4 @@
-# Zodiac Signs Collection Collection - Aquarius - Star Coin Art
+# Zodiac Signs Collection - Aquarius - Star Coin Art
 
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aquarius/aquarius-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-aquarius.jpg" alt="fortune cord carnation flower star coin 1b aquarius line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aquarius/aquarius-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-aquarius.jpg" alt="fortune cord carnation flower star coin 2 aquarius line art, Star Coin Ceiling pattern">
