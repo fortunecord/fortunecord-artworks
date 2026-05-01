@@ -1,5 +1,7 @@
 # Zodiac Signs Collection - Aries - Star Coin Art
 
+Explore **Aries star coin ceiling art** – a versatile **starlight headliner pattern** for **automotive car roof design**, **architectural ceiling decoration**, and **luxury interior starlight ceiling art**.
+
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aries/aries-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-aries.jpg" alt="fortune cord carnation flower star coin 1b aries line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aries/aries-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-aries.jpg" alt="fortune cord carnation flower star coin 2 aries line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aries/aries-flower-star-coin-v1.0/fortune-cord-cherry-blossom-flower-star-coin-1b-aries.jpg" alt="fortune cord cherry blossom flower star coin 1b aries line art, star coin constellation ceiling">
