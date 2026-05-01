@@ -1,5 +1,7 @@
 # Taiji Collection - Star Coin Art
 
+Explore **Taiji star coin art** – the balance of yin and yang, cosmic energy flow. Perfect for **starlight headliners**, **architectural ceilings**, and **interior decor** seeking harmony and vitality.
+
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-1.jpg" alt="fortune cord postnatal taiji forward rotation 1 line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-2.jpg" alt="fortune cord postnatal taiji forward rotation 2 line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-3.jpg" alt="fortune cord postnatal taiji forward rotation 3 line art, Star Coin Ceiling pattern">
