@@ -1,5 +1,7 @@
 # Zodiac Signs Collection - Libra - Star Coin Art 
 
+Explore **Libra star coin ceiling art** – a versatile **starlight headliner pattern** for **automotive car roof design**, **architectural ceiling decoration**, and **luxury interior starlight ceiling artwork**.
+
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/libra/libra-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-libra.jpg" alt="fortune cord carnation flower star coin 1b libra line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/libra/libra-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-libra.jpg" alt="fortune cord carnation flower star coin 2 libra line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/libra/libra-flower-star-coin-v1.0/fortune-cord-cherry-blossom-flower-star-coin-1b-libra.jpg" alt="fortune cord cherry blossom flower star coin 1b libra line art, Star Coin Ceiling pattern">
