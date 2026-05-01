@@ -1,5 +1,7 @@
 # Zodiac Signs Collection - Leo - Star Coin Art 
 
+Explore **Leo star coin ceiling art** – a versatile **starlight headliner pattern** for **automotive car roof design**, **architectural ceiling decoration**, and **luxury interior starlight ceiling artwork**.
+
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/leo/leo-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-leo.jpg" alt="fortune cord carnation flower star coin 1b leo line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/leo/leo-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-leo.jpg" alt="fortune cord carnation flower star coin 2 leo line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/leo/leo-flower-star-coin-v1.0/fortune-cord-cherry-blossom-flower-star-coin-1b-leo.jpg" alt="fortune cord cherry blossom flower star coin 1b leo line art, Star Coin Ceiling pattern">
