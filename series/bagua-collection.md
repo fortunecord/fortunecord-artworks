@@ -1,6 +1,6 @@
 # Bagua Collection - Fortune Cord Art
 
-Explore **Bagua fortune cord art** – an ancient **Eastern mystical symbol** of balance and harmony, rooted in **I Ching philosophy** and **feng shui wealth principles**. Ideal for car starlight headliners, building ceilings, and luxury interior decor.
+View **Bagua fortune cord art** – an ancient **Eastern mystical symbol** of balance and harmony, rooted in **I Ching philosophy** and **feng shui wealth principles**. Ideal for car starlight headliners, building ceilings, and luxury interior decor.
 
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-postnatal-bagua-double-coin-single-cord-supporting-from-below.jpg" alt="fortune cord postnatal bagua double coin single cord supporting from below line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-postnatal-bagua-single-coin-single-cord-connecting-through-hole.jpg" alt="fortune cord postnatal bagua single coin single cord connecting through hole line art, Star Coin Ceiling pattern">
