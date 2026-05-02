@@ -1,6 +1,6 @@
 # Taiji Collection - Fortune Coin Art
 
-This artwork presents a Taiji cycle composed of 'coin cord' or 'fortune cord' elements. Rooted in I Ching philosophy, Eastern mysticism, and feng shui wealth concepts. Perfect for **starlight headliners**, **architectural ceilings**, and **interior decor** seeking harmony and vitality.
+This artwork presents a Taiji cycle composed of 'coin cord' or 'fortune cord' elements. Rooted in I Ching philosophy, Eastern mysticism, and feng shui wealth concepts. Perfect for **starlight headliners**, **architectural ceilings**, and **interior decor** seeking harmony and vitality. Where eastern philosophy meets starlight.
 
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-1.jpg" alt="fortune cord postnatal taiji forward rotation 1 line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-2.jpg" alt="fortune cord postnatal taiji forward rotation 2 line art, Star Coin Ceiling pattern">
