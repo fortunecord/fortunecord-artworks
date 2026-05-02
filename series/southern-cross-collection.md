@@ -1,6 +1,6 @@
 # Southern Cross Collection – Star Coin Ceiling Art
 
-Explore **Southern Cross star coin ceiling art** – the iconic constellation of the southern sky. Perfect for **starlight headliners**, **architectural ceilings**, and **cosmic luxury decor**.
+See **Southern Cross star coin ceiling art** – the eternal cross of the south - the iconic constellation of the southern sky. Perfect for **starlight headliners**, **architectural ceilings**, and **cosmic luxury decor**.
 
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/9-southern-cross-collection/1-round-coin-yuanbao-furry-star-coin-southern-cross/fortune-cord-southern-cross-furry-star-coin-1-earless-no-hole.jpg" alt="fortune cord southern cross furry star coin 1 earless no hole line art, Star Coin Ceiling pattern">
