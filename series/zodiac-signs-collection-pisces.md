@@ -1,5 +1,7 @@
 # Zodiac Signs Collection - Pisces - Star Coin Art 
 
+Engage with Pisces star coin art – fluid, dreamy, and eternal. Black and white line art for starlight headliner, car ceiling, or luxury interior. Two fish swimming in opposite directions, yet tied by a cord. 
+
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/pisces/pisces-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-pisces.jpg" alt="fortune cord carnation flower star coin 1b pisces line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/pisces/pisces-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-pisces.jpg" alt="fortune cord carnation flower star coin 2 pisces line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/pisces/pisces-flower-star-coin-v1.0/fortune-cord-cherry-blossom-flower-star-coin-1b-pisces.jpg" alt="fortune cord cherry blossom flower star coin 1b pisces line art, Star Coin Ceiling pattern">
