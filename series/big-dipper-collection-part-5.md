@@ -1,6 +1,6 @@
 # Big Dipper Collection (Part 5) – Star Coin Ceiling Art
 
-Fifth installment of **Big Dipper star coin ceiling art** – suitable for **car roof starlight systems** and **high‑end ceiling decoration**. From ancient sky to modern headliner.
+A spoonful of stars, dipping into the cosmic sea. Part five features Big Dipper star coin art with a focus on clean black and white contrast – for automotive ceilings and zen spaces. From ancient sky to modern headliner.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/4-fruit-star-coin-big-dipper/fortune-cord-ursa-major-big-dipper-almond-fruit-star-coin-1.jpg" alt="fortune cord ursa major big dipper almond fruit star coin 1 line art, car roof star decoration">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/4-fruit-star-coin-big-dipper/fortune-cord-ursa-major-big-dipper-almond-fruit-star-coin-2.jpg" alt="fortune cord ursa major big dipper almond fruit star coin 2 line art, celestial ceiling art">
