@@ -1,6 +1,6 @@
 # Zodiac Signs Collection - Gemini - Star Coin Art 
 
-Explore **Gemini star coin ceiling art** – a versatile **starlight headliner pattern** for **automotive car roof design**, **architectural ceiling decoration**, and **interior starlight ceiling art**.
+Interact with **Gemini star coin ceiling art** – a versatile **starlight headliner pattern** for **automotive car roof design**, **architectural ceiling decoration**, and **interior starlight ceiling art**. Twin stars, dual light.
 
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/gemini/gemini-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-gemini.jpg" alt="fortune cord carnation flower star coin 1b gemini line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/gemini/gemini-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-gemini.jpg" alt="fortune cord carnation flower star coin 2 gemini line art, Star Coin Ceiling pattern">
