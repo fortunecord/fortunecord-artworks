@@ -1,7 +1,6 @@
 # 28 Mansions Collection - Southern Vermilion bird - Star Coin Art 
 
-Immerse in **Southern Vermilion bird star coin ceiling art** – the 28 lunar mansions, celestial power of the south. Perfect for **starlight headliners**, **architectural ceilings**, and **luxury cosmic decor**.
-
+Immerse in **Southern Vermilion bird star coin ceiling art** – the 28 lunar mansions, 28 Mansions: “28 lunar lodges”, celestial power of the south. Perfect for **starlight headliners**, **architectural ceilings**, and **luxury cosmic decor**.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/southern-vermilion-bird/fruit-star-coin-28-mansions-southern-vermilion-bird-v1.0/fortune-cord-almond-fruit-star-coin-1-southern-vermilion-bird.jpg" alt="fortune cord almond fruit star coin 1 southern vermilion bird line art, starry roof pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/southern-vermilion-bird/fruit-star-coin-28-mansions-southern-vermilion-bird-v1.0/fortune-cord-almond-fruit-star-coin-2-southern-vermilion-bird.jpg" alt="fortune cord almond fruit star coin 2 southern vermilion bird line art, Star Coin Ceiling pattern">
