@@ -1,6 +1,6 @@
 # 28 Mansions Collection - Eastern Azure Dragon - Star Coin Art 
 
-Explore **Eastern Azure Dragon star coin ceiling art** – the 28 lunar mansions, ancient celestial guardian of the east. Perfect for **starlight headliners**, **architectural ceilings**, and **mythical cosmic decor**.
+Journey into **Eastern Azure Dragon star coin ceiling art** – the 28 lunar mansions, ancient celestial guardian of the east. Perfect for **starlight headliners**, **architectural ceilings**, and **mythical cosmic decor**.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/eastern-azure-dragon-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1-eastern-azure-dragon.jpg" alt="fortune cord carnation flower star coin 1 eastern azure dragon line art, Star Coin Ceiling pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/eastern-azure-dragon-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-eastern-azure-dragon.jpg" alt="fortune cord carnation flower star coin 2 eastern azure dragon line art, starry roof pattern">
