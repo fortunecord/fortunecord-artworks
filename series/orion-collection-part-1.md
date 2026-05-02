@@ -1,6 +1,6 @@
 # Orion Collection (Part 1) – Star Coin Ceiling Art
 
-Get inspired by **Orion star coin ceiling art** – “hunter’s belt, three bright”, the hunter’s belt and shoulders, mapped with star coin motifs. Perfect for **starlight headliners**, **architectural ceilings**, and **celestial luxury decor**. 
+Get inspired by **Orion star coin ceiling art** – “hunter’s belt, three bright”, the hunter’s belt and shoulders, mapped with star coin motifs. Excellent for **starlight headliners**, **architectural ceilings**, and **celestial luxury decor**. 
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/8-orion-collection/1-round-coin-yuanbao-furry-star-coin-orion/fortune-cord-orion-furry-star-coin-1-earless-no-hole.jpg" alt="fortune cord orion furry star coin 1 earless no hole line art, Star Coin Ceiling pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/8-orion-collection/1-round-coin-yuanbao-furry-star-coin-orion/fortune-cord-orion-furry-star-coin-11-furry-single-ear.jpg" alt="fortune cord orion furry star coin 11 furry single ear line art, Star Coin Ceiling pattern">
