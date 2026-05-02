@@ -1,6 +1,6 @@
 # Zodiac Signs Collection - Aquarius - Star Coin Art
 
-Explore **Aquarius star coin ceiling art** – a versatile **starlight headliner pattern** for **automotive car roof design**, **architectural ceiling decoration**, and **luxury interior starlight ceiling art**.
+Reveal **Aquarius star coin ceiling art** – a versatile **starlight headliner pattern** for **automotive car roof design**, **architectural ceiling decoration**, and **luxury interior starlight ceiling art**. Water bearer, flowing stream.
 
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aquarius/aquarius-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-aquarius.jpg" alt="fortune cord carnation flower star coin 1b aquarius line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aquarius/aquarius-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-aquarius.jpg" alt="fortune cord carnation flower star coin 2 aquarius line art, Star Coin Ceiling pattern">
