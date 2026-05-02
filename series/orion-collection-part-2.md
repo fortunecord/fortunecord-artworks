@@ -1,6 +1,6 @@
 # Orion Collection (Part 2) – Star Coin Ceiling Art
 
-Continue the Orion journey with more **orion hunter starlight pattern** – ideal for **automotive starlight headliners**, **building ceilings**, and **cosmic interior design**.
+Continue the Orion journey with more **orion hunter starlight pattern** – Looks great on **automotive starlight headliners**, **building ceilings**, and **cosmic interior design**.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/8-orion-collection/4-global-star-coin-orion-unregistered-draft/fortune-cord-orion-global-star-coin-1.jpg" alt="fortune cord orion global star coin 1 line art, starry roof pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/8-orion-collection/4-global-star-coin-orion-unregistered-draft/fortune-cord-orion-global-star-coin-10.jpg" alt="fortune cord orion global star coin 10 line art, Star Coin Ceiling pattern">
