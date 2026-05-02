@@ -1,6 +1,6 @@
 # Big Dipper Collection (part 1) - Star Coin Art 
 
-Explore **Big Dipper star coin ceiling art** – the seven-star ladle，the first seven stars of the northern sky. Perfect for **starlight headliners**, **architectural ceilings**, and **cosmic luxury decor**.
+Explore **Big Dipper star coin ceiling art** – the seven-star ladle，the first seven stars of the northern sky. A timeless guide for **starlight headliners**, **architectural ceilings**, and **cosmic luxury decor**.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/coin_cord_big_dipper_true_proportion_1.Jpg" alt="coin_cord_big_dipper_true_proportion_1.Jpg line art, Star Coin Ceiling pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/coin_cord_big_dipper_true_proportion_2.Jpg" alt="coin_cord_big_dipper_true_proportion_2.Jpg line art, minimalist lines meet cosmic ceiling.">
