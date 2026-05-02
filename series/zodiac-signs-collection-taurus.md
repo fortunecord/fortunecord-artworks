@@ -1,5 +1,7 @@
 # Zodiac Signs Collection - Taurus - Star Coin Art 
 
+The bull stands firm under the starry vault. Taurus star coin art brings earthy strength and steady glow. Black and white motifs for starlight headliner, fiber optic patterns, or luxury architectural ceilings.
+
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/taurus/taurus-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-taurus.jpg" alt="fortune cord carnation flower star coin 1b taurus line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/taurus/taurus-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-taurus.jpg" alt="fortune cord carnation flower star coin 2 taurus line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/taurus/taurus-flower-star-coin-v1.0/fortune-cord-cherry-blossom-flower-star-coin-1b-taurus.jpg" alt="fortune cord cherry blossom flower star coin 1b taurus line art, Star Coin Ceiling pattern">
