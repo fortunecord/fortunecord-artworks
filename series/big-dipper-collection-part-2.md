@@ -1,6 +1,6 @@
 # Big Dipper Collection (Part 2) – Star Coin Ceiling Art
 
-Continue the celestial journey with **Big Dipper star coin patterns** – Ursa Major's Dipper, the Plough asterism, ideal for **starlight headliners**, **car roof designs**, and **celestial interiors**.
+The Plough turns around Polaris, marking seasons and nights. Continue the celestial journey with **Big Dipper star coin patterns** – Ursa Major's Dipper, the Plough asterism, ideal for **starlight headliners**, **car roof designs**, and **celestial interiors**.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.1-two-eared-beast-front-back/coin-cord-big-dipper-7-coins-back-furry-braid-tail-2.jpg" alt="coin cord big dipper 7 coins back furry braid tail 2 line art, Star Coin Ceiling pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.1-two-eared-beast-front-back/coin-cord-big-dipper-7-coins-back-furry-braid-tail.jpg" alt="coin cord big dipper 7 coins back furry braid tail line art, Star Coin Ceiling pattern">
