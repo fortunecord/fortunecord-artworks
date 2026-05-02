@@ -1,6 +1,6 @@
 # Big Dipper Collection (Part 6) – Star Coin Ceiling Art
 
-Part six: **Big Dipper celestial patterns** – ideal for **starlight headliners**, **architectural ceilings**, **star coin rooftop art** and **custom cosmic interiors**.
+In many cultures, the seven stars are elders watching over the north. This sixth part presents **Big Dipper celestial patterns** suitable for **starlight headliners**, **architectural ceilings**, **star coin rooftop art** and **custom cosmic interiors**.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/5-flower-star-coin-big-dipper/fortune-cord-carnation-flower-star-coin-1-big-dipper.jpg" alt="fortune cord carnation flower star coin 1 big dipper line art, star coin ceiling fiber optic pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/5-flower-star-coin-big-dipper/fortune-cord-carnation-flower-star-coin-2-big-dipper.jpg" alt="fortune cord carnation flower star coin 2 big dipper line art, Star Coin Ceiling pattern">
