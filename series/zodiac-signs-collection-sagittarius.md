@@ -1,5 +1,7 @@
 # Zodiac Signs Collection - Sagittarius - Star Coin Art 
 
+The archer draws a bow, aiming at the stars. Sagittarius star coin patterns blend adventure with celestial geometry. Minimalist linework for automotive roof decoration or cosmic ceiling design.
+
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/sagittarius/sagittarius-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-sagittarius.jpg" alt="fortune cord carnation flower star coin 1b sagittarius line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/sagittarius/sagittarius-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-sagittarius.jpg" alt="fortune cord carnation flower star coin 2 sagittarius line art, Star Coin Ceiling pattern">
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/sagittarius/sagittarius-flower-star-coin-v1.0/fortune-cord-cherry-blossom-flower-star-coin-1b-sagittarius.jpg" alt="fortune cord cherry blossom flower star coin 1b sagittarius line art, Star Coin Ceiling pattern">
