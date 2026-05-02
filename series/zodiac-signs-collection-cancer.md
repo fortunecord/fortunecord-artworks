@@ -1,6 +1,6 @@
 # Zodiac Signs Collection - Cancer - Star Coin Art 
 
-Explore **Cancer star coin ceiling art** – a unique **starlight headliner pattern** for **car roof star design** and **celestial ceiling decoration**. 
+Enjoy **Cancer star coin ceiling art** – a unique **starlight headliner pattern** for **car roof star design** and **celestial ceiling decoration**. 
 
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/cancer/cancer-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1b-cancer.jpg" alt="fortune cord carnation flower star coin 1b cancer line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/cancer/cancer-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-cancer.jpg" alt="fortune cord carnation flower star coin 2 cancer line art, Star Coin Ceiling pattern">
