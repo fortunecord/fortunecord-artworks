@@ -1,6 +1,6 @@
 # Little Dipper Collection – Star Coin Ceiling Art
 
-Explore **Little Dipper star coin ceiling art** – the smaller sibling of the Big Dipper, tracing the northern stars. Perfect for **starlight headliners**, **architectural ceilings**, and **cozy cosmic interiors**. Turn your car roof into a starry night.
+Explore **Little Dipper star coin ceiling art** – the smaller sibling of the Big Dipper, tracing the northern stars. Optimal for **starlight headliners**, **architectural ceilings**, and **cozy cosmic interiors**. Turn your car roof into a starry night.
 
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/7-little-dipper-collection/1-round-coin-yuanbao-furry-star-coin-ursa-minor/coin-cord-furry-star-coin-ursa-minor-little-dipper-tied-with-cord-deco-perforation.jpg" alt="coin cord furry star coin ursa minor little dipper tied with cord deco perforation line art, Star Coin Ceiling pattern">
