@@ -1,6 +1,6 @@
 # 28 Mansions Collection - Western White Tiger - Star Coin Art 
 
-Experience **Western White Tiger star coin ceiling art** – the 28 lunar mansions, celestial power of the west. Perfect for **starlight headliners**, **architectural ceilings**, and **luxury cosmic decor**.
+Experience **Western White Tiger star coin ceiling art** – the 28 lunar mansions, celestial power of the west. Compatible with **starlight headliners**, **architectural ceilings**, and **luxury cosmic decor**.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/western-white-tiger/fruit-star-coin-28-mansions-western-white-tiger-v1.0/fortune-cord-apple-fruit-star-coin-1-western-white-tiger.jpg" alt="fortune cord apple fruit star coin 1 western white tiger line art, Star Coin Ceiling pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/western-white-tiger/fruit-star-coin-28-mansions-western-white-tiger-v1.0/fortune-cord-apple-fruit-star-coin-2-western-white-tiger.jpg" alt="fortune cord apple fruit star coin 2 western white tiger line art, starlight headliner pattern">
