@@ -33,7 +33,7 @@ Fortunecord [at] qq [dot] com
 
 ### [Big Dipper Collection (Part 1)](series/big-dipper-collection-part-1.md)
 Big Dipper Star Coin art reimagined for Star Ceiling installation (Part 1 of 7)
-<div align="center"><a href="series/big-dipper-collection-part-1.md"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/coin_cord_big_dipper_true_proportion_1.Jpg" width="450" alt="Fortune Cord Big Dipper Star Coin line art - constellation pattern for starlight headliner"></a></div>
+<div align="center"><a href="series/big-dipper-collection-part-1.md"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/coin_cord_big_dipper_true_proportion_1.Jpg" width="400" alt="Fortune Cord Big Dipper Star Coin line art - constellation pattern for starlight headliner"></a></div>
 
 ### [Big Dipper Collection (Part 2)](series/big-dipper-collection-part-2.md)
 (2/7)
