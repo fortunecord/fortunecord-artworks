@@ -1,3 +1,8 @@
+---
+include_nav: true
+---
+
+
 # 28 Mansions Collection - Northern Black Tortoise - Star Coin Art 
 
 Explore **Northern Black Tortoise star coin ceiling art** – the 28 lunar mansions, mysterious guardian of the north. Intended for **starlight headliners**, **architectural ceilings**, and **cosmic-themed interiors**.
