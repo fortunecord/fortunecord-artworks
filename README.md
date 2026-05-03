@@ -1,33 +1,10 @@
 # FortuneCord Artworks – Star Coin Ceiling Art
 
-Explore original **Star Coin Ceiling Art** by FortuneCord. This collection features black and white line art reimagining the **Big Dipper**, **Zodiac Signs**, **28 Mansions**, **Taiji**, **Bagua**, and more. Each pattern transforms constellations into **starlight headliner** designs, perfect for **automotive ceilings**, **architectural decoration**, and **luxury interior design**. Discover how a cord threads a coin to create unique celestial motifs for car roof star patterns and cosmic interiors.
+Original **Star Coin Ceiling** line art by FortuneCord, reimagining **Big Dipper**, **12 Zodiac Signs**, **Constellations**, **Asterisms**, **Little Dipper**, **Orion**, **Southern Cross**, **28 Mansions**, **Taiji**, **Bagua**, and more. Coin motifs (floral, fruit, furry, gem) as star points, connected by the cord — perfect for **starlight headliners**, **automotive ceilings**, **architectural decoration**, and **luxury interiors**.
 
-*The Map of Wealth, Written in the Stars.*
+Browse the complete collection using the **GALLERY INDEX** at the top of this page. Below are some selected examples.
 
-Created by Dan, the Star Coin Alchemist and Astrological Alchemist.
-
-This repository contains original line art based on the **FORTUNE CORD visual system**: a cord threading a coin.
-
-Reinterprets: 12 Zodiac Signs, Constellations, Asterisms, Big Dipper, Little Dipper, Orion, Southern Cross, Taiji, Bagua, Hetu Luoshu, 28 Mansions, and more.
-
-Coin motifs (floral, fruit, furry, gem) as star points, tied by the cord.
-
-Some works in this repository are protected under a Creative Commons Attribution-NonCommercial 4.0 International License.The full license text is available at `https://creativecommons.org/licenses/by-nc/4.0/`.
-
-You are free to share and adapt these works, provided you give appropriate credit to the author (Chen Dan / FortuneCord), and not for commercial purposes.
-
-Interested in applying the Fortune Cord visual system to your own reinterpretations of Taiji, Zodiac, or astral symbols? We welcome inquiries regarding collaboration or licensing.
-
-
-**Licensing & Inquiries:**  
-Sealofwealth [at] outlook [dot] com  
-Fortunecord [at] qq [dot] com  
-
-(Please replace [at] with @ and [dot] with .)
-
-**Website:**
-[fortunecord.com](https://fortunecord.com)
-
+---
 
 
 ### [Big Dipper Collection (Part 1)](series/big-dipper-collection-part-1)
@@ -150,3 +127,25 @@ Western White Tiger, cosmic line art.
 ### [Bagua Collection](series/bagua-collection)
 Bagua and coin-cord, Eastern wisdom.
 <div align="center"><a href="series/bagua-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-prenatal-bagua-single-coin-single-line-supporting-from-below.jpg" width="300" alt="Bagua star coin line art - starlight headliner art"></a></div>
+
+
+*The Map of Wealth, Written in the Stars.*
+
+Created by Dan, the Star Coin Alchemist and Astrological Alchemist.
+
+This repository contains original line art based on the **FORTUNE CORD visual system**: a cord threading a coin.
+Some works in this repository are protected under a Creative Commons Attribution-NonCommercial 4.0 International License.The full license text is available at `https://creativecommons.org/licenses/by-nc/4.0/`.
+
+You are free to share and adapt these works, provided you give appropriate credit to the author (Chen Dan / FortuneCord), and not for commercial purposes.
+
+Interested in applying the Fortune Cord visual system to your own reinterpretations of Taiji, Zodiac, or astral symbols? We welcome inquiries regarding collaboration or licensing.
+
+
+**Licensing & Inquiries:**  
+Sealofwealth [at] outlook [dot] com  
+Fortunecord [at] qq [dot] com  
+
+(Please replace [at] with @ and [dot] with .)
+
+**Website:**
+[fortunecord.com](https://fortunecord.com)
