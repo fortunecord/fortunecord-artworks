@@ -1,15 +1,15 @@
 <div style="background:#f8f8f8; padding:8px 12px; margin-bottom:20px; border-bottom:1px solid #ddd; font-size:14px;">
-  <strong>📁 作品总目录：</strong>
-  <a href="/fortunecord-artworks/">首页</a> |
-  <a href="/fortunecord-artworks/series/big-dipper-collection-part-1">北斗七星</a> |
-  <a href="/fortunecord-artworks/series/little-dipper-collection">小北斗</a> |
-  <a href="/fortunecord-artworks/series/orion-collection-part-1">猎户座</a> |
-  <a href="/fortunecord-artworks/series/southern-cross-collection">南十字座</a> |
-  <a href="/fortunecord-artworks/series/zodiac-signs-collection-aries">十二星座</a>
-  <a href="/fortunecord-artworks/series/28-mansions-collection-east">二十八星宿</a> |
-  <a href="/fortunecord-artworks/series/hetu-luoshu-collection">河图洛书</a> |
-  <a href="/fortunecord-artworks/series/bagua-collection">八卦</a> |
-  <a href="/fortunecord-artworks/series/taiji-collection">太极</a> |
+  <strong>📁 Master Directory:</strong>
+  <a href="/fortunecord-artworks/">Home</a> |
+  <a href="/fortunecord-artworks/series/big-dipper-collection-part-1">Big Dipper</a> |
+  <a href="/fortunecord-artworks/series/little-dipper-collection">Little Dipper</a> |
+  <a href="/fortunecord-artworks/series/orion-collection-part-1">Orion</a> |
+  <a href="/fortunecord-artworks/series/southern-cross-collection">Southern Cross</a> |
+  <a href="/fortunecord-artworks/series/zodiac-signs-collection-aries">Zodiac</a> |
+  <a href="/fortunecord-artworks/series/28-mansions-collection-east">28 Mansions</a> |
+  <a href="/fortunecord-artworks/series/hetu-luoshu-collection">Hetu Luoshu</a> |
+  <a href="/fortunecord-artworks/series/bagua-collection">Bagua</a> |
+  <a href="/fortunecord-artworks/series/taiji-collection">Taiji</a>
 </div>
 
 
