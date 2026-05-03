@@ -1,18 +1,3 @@
-<div style="background:#f8f8f8; padding:8px 12px; margin-bottom:20px; border-bottom:1px solid #ddd; font-size:14px;">
-  <strong>📁 Master Directory:</strong>
-  <a href="/fortunecord-artworks/">Home</a> |
-  <a href="/fortunecord-artworks/series/big-dipper-collection-part-1">Big Dipper</a> |
-  <a href="/fortunecord-artworks/series/little-dipper-collection">Little Dipper</a> |
-  <a href="/fortunecord-artworks/series/orion-collection-part-1">Orion</a> |
-  <a href="/fortunecord-artworks/series/southern-cross-collection">Southern Cross</a> |
-  <a href="/fortunecord-artworks/series/zodiac-signs-collection-aries">Zodiac</a> |
-  <a href="/fortunecord-artworks/series/28-mansions-collection-east">28 Mansions</a> |
-  <a href="/fortunecord-artworks/series/hetu-luoshu-collection">Hetu Luoshu</a> |
-  <a href="/fortunecord-artworks/series/bagua-collection">Bagua</a> |
-  <a href="/fortunecord-artworks/series/taiji-collection">Taiji</a>
-</div>
-
-
 # 28 Mansions Collection - Eastern Azure Dragon - Star Coin Art 
 
 Journey into **Eastern Azure Dragon star coin ceiling art** – the 28 lunar mansions, ancient celestial guardian of the east. Great for **starlight headliners**, **architectural ceilings**, and **mythical cosmic decor**.
