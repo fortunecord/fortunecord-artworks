@@ -150,10 +150,3 @@ Western White Tiger, cosmic line art.
 ### [Bagua Collection](series/bagua-collection)
 Bagua and coin-cord, Eastern wisdom.
 <div align="center"><a href="series/bagua-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-prenatal-bagua-single-coin-single-line-supporting-from-below.jpg" width="300" alt="Bagua star coin line art - starlight headliner art"></a></div>
-
-
-
-[← 返回作品集主页](../README.md)
-
-
-
