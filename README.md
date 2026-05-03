@@ -1,6 +1,6 @@
 # FortuneCord Artworks – Star Coin Ceiling Art
 
-This repository contains original **Star Coin Ceiling** line art based on the **FORTUNE CORD visual system**: a cord threading a coin. Reimagining Big Dipper, 12 Zodiac Signs, Constellations, Asterisms, Little Dipper, Orion, Southern Cross, 28 Mansions, Taiji, Bagua, and more. Coin motifs (floral, fruit, furry, gem) as star points, connected by the cord — perfect for **starlight headliners**, **automotive ceilings**, **architectural decoration**, and **luxury interiors**.
+This repository contains original **Star Coin Ceiling** line art based on the **FORTUNE CORD visual system**: a cord threading a coin. Reimagining Big Dipper, 12 Zodiac Signs, Constellations, Asterisms, Little Dipper, Orion, Southern Cross, 28 Mansions, Taiji, Bagua, and more. Coin motifs (floral, fruit, furry, gem) replacing star points, connected by the cord — perfect for **starlight headliners**, **automotive ceilings**, **architectural decoration**, and **luxury interiors**.
 
 Browse the complete collection using the **GALLERY INDEX** at the top of this page. Below are some selected examples.
 
