@@ -1,13 +1,137 @@
-<div style="background:#f8f8f8; padding:8px 12px; margin-bottom:20px; border-bottom:1px solid #ddd; font-size:14px;">
-  <strong>📁 Master Directory:</strong>
-  <a href="/fortunecord-artworks/">Home</a> |
-  <a href="/fortunecord-artworks/series/big-dipper-collection-part-1">Big Dipper</a> |
-  <a href="/fortunecord-artworks/series/little-dipper-collection">Little Dipper</a> |
-  <a href="/fortunecord-artworks/series/orion-collection-part-1">Orion</a> |
-  <a href="/fortunecord-artworks/series/southern-cross-collection">Southern Cross</a> |
-  <a href="/fortunecord-artworks/series/zodiac-signs-collection-aries">Zodiac</a> |
-  <a href="/fortunecord-artworks/series/28-mansions-collection-east">28 Mansions</a> |
-  <a href="/fortunecord-artworks/series/hetu-luoshu-collection">Hetu Luoshu</a> |
-  <a href="/fortunecord-artworks/series/bagua-collection">Bagua</a> |
-  <a href="/fortunecord-artworks/series/taiji-collection">Taiji</a>
+<style>
+  .top-nav {
+    background: #f8f8f8;
+    padding: 8px 12px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+    font-family: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+  }
+  .nav-item {
+    position: relative;
+    display: inline-block;
+  }
+  .nav-item a {
+    text-decoration: none;
+    color: #333;
+    padding: 6px 10px;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border: 1px solid #ddd;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 8px 12px;
+    text-decoration: none;
+    display: block;
+    white-space: nowrap;
+  }
+  .dropdown-content a:hover {
+    background-color: #eaeaea;
+  }
+  .nav-item:hover .dropdown-content {
+    display: block;
+  }
+  .nav-item a:hover {
+    background-color: #e0e0e0;
+    border-radius: 4px;
+  }
+  @media (max-width: 768px) {
+    .top-nav { flex-direction: column; align-items: flex-start; }
+    .dropdown-content { position: static; }
+  }
+</style>
+
+<div class="top-nav">
+  <strong>📁 GALLERY INDEX:</strong>
+  <a href="/fortunecord-artworks/">Home</a>
+
+  <!-- 1. Zodiac Signs (12) -->
+  <div class="nav-item">
+    <a href="#">Zodiac Signs</a>
+    <div class="dropdown-content">
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-aries">Aries</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-taurus">Taurus</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-gemini">Gemini</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-cancer">Cancer</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-leo">Leo</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-virgo">Virgo</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-libra">Libra</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-scorpio">Scorpio</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-sagittarius">Sagittarius</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-capricorn">Capricorn</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-aquarius">Aquarius</a>
+      <a href="/fortunecord-artworks/series/zodiac-signs-collection-pisces">Pisces</a>
+    </div>
+  </div>
+
+  <!-- 2. Big Dipper (7 parts) -->
+  <div class="nav-item">
+    <a href="#">Big Dipper</a>
+    <div class="dropdown-content">
+      <a href="/fortunecord-artworks/series/big-dipper-collection-part-1">Part 1</a>
+      <a href="/fortunecord-artworks/series/big-dipper-collection-part-2">Part 2</a>
+      <a href="/fortunecord-artworks/series/big-dipper-collection-part-3">Part 3</a>
+      <a href="/fortunecord-artworks/series/big-dipper-collection-part-4">Part 4</a>
+      <a href="/fortunecord-artworks/series/big-dipper-collection-part-5">Part 5</a>
+      <a href="/fortunecord-artworks/series/big-dipper-collection-part-6">Part 6</a>
+      <a href="/fortunecord-artworks/series/big-dipper-collection-part-7">Part 7</a>
+    </div>
+  </div>
+
+  <!-- 3. Orion (2 parts) -->
+  <div class="nav-item">
+    <a href="#">Orion</a>
+    <div class="dropdown-content">
+      <a href="/fortunecord-artworks/series/orion-collection-part-1">Part 1</a>
+      <a href="/fortunecord-artworks/series/orion-collection-part-2">Part 2</a>
+    </div>
+  </div>
+
+  <!-- 4. Southern Cross -->
+  <div class="nav-item">
+    <a href="/fortunecord-artworks/series/southern-cross-collection">Southern Cross</a>
+  </div>
+
+  <!-- 5. Little Dipper -->
+  <div class="nav-item">
+    <a href="/fortunecord-artworks/series/little-dipper-collection">Little Dipper</a>
+  </div>
+
+  <!-- 6. 28 Mansions (4 directions) -->
+  <div class="nav-item">
+    <a href="#">28 Mansions</a>
+    <div class="dropdown-content">
+      <a href="/fortunecord-artworks/series/28-mansions-collection-east">Eastern Azure Dragon</a>
+      <a href="/fortunecord-artworks/series/28-mansions-collection-north">Northern Black Tortoise</a>
+      <a href="/fortunecord-artworks/series/28-mansions-collection-south">Southern Vermilion Bird</a>
+      <a href="/fortunecord-artworks/series/28-mansions-collection-west">Western White Tiger</a>
+    </div>
+  </div>
+
+  <!-- 7. Hetu Luoshu -->
+  <div class="nav-item">
+    <a href="/fortunecord-artworks/series/hetu-luoshu-collection">Hetu Luoshu</a>
+  </div>
+
+  <!-- 8. Bagua -->
+  <div class="nav-item">
+    <a href="/fortunecord-artworks/series/bagua-collection">Bagua</a>
+  </div>
+
+  <!-- 9. Taiji -->
+  <div class="nav-item">
+    <a href="/fortunecord-artworks/series/taiji-collection">Taiji</a>
+  </div>
 </div>
