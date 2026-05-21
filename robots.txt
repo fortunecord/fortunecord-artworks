@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://raw.githubusercontent.com/fortunecord/fortunecord-artworks/main/sitemap.xml
+Sitemap: https://fortunecord.github.io/fortunecord-artworks/sitemap.xml

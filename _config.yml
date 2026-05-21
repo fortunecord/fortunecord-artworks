@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: ""          # 仓库所有文件
+    values:
+      layout: default
