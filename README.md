@@ -107,6 +107,8 @@ Hetu Luoshu mathematical cosmology.
 Yin-Yang Taiji, cord and coin.
 <div align="center"><a href="series/taiji-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-3.jpg" width="300" alt="Fortune Cord postnatal Taiji - starlight headliner art"></a></div>
 <div align="center"><a href="series/taiji-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-prenatal-taiji-reverse-rotation-2.jpg" width="300" alt="Fortune Cord prenatal Taiji - celestial ceiling pattern"></a></div>
+<div align="center"><a href="series/taiji-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/round-cat-coin-big-head-fish-taiji-front-minimalist-no-pocket-1.jpg" width="300" alt="Fortune Cord Cat Taiji - star ceiling pattern"></a></div>
+<div align="center"><a href="series/taiji-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/single-ear-furry-coin-big-head-fish-taiji-crouching-back-no-pocket-1.jpg" width="300" alt="Fortune Cord Single Ear Cat Taiji - star coin ceiling artwork"></a></div>
 
 ### [28 Mansions - Eastern Azure Dragon](series/28-mansions-collection-east)
 Eastern Azure Dragon, seven mansions reimagined with Star Coin art.
