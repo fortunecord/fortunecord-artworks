@@ -120,7 +120,7 @@ Northern Black Tortoise, cord-and-coin topology.
 
 ### [28 Mansions - Southern Vermilion Bird](series/28-mansions-collection-south)
 Southern Vermilion Bird, starlight ceiling patterns.
-<div align="center"><a href="series/28-mansions-collection-south"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/southern-vermilion-bird/round-coin-yuanbao-southern-vermilion-bird/fortune-cord-southern-vermilion-bird-1.jpg" width="300" alt="Southern Vermilion Bird yuanbao star coin - architectural starlight ceiling"></a></div>
+<div align="center"><a href="series/28-mansions-collection-south"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/southern-vermilion-bird/round-coin-yuanbao-southern-vermilion-bird/fortune-cord-southern-vermilion-bird-1.jpg" width="380" alt="Southern Vermilion Bird yuanbao star coin - architectural starlight ceiling"></a></div>
 
 ### [28 Mansions - Western White Tiger](series/28-mansions-collection-west)
 Western White Tiger, cosmic line art.
