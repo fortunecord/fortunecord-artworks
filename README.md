@@ -156,9 +156,8 @@ Interested in applying the Fortune Cord visual system to your own reinterpretati
 
 
 **Licensing & Inquiries:**  
-Sealofwealth [at] outlook [dot] com  
 Fortunecord [at] qq [dot] com  
-
+Hdzjw [at] msn [dot] com
 (Please replace [at] with @ and [dot] with .)
 
 **Website:**
