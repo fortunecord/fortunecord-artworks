@@ -88,11 +88,11 @@ Virgo Dragon Fruit Star Coin Star Chart Connection Line.<br>
 
 ### [Orion Collection (Part 1)](series/orion-collection-part-1)
 Orion Star Coin Star Chart Connection Line (1/2)<br>
-<a href="series/orion-collection-part-1"><img src="https://fortunecord.github.io/fortunecord-artworks/8-orion-collection/1-round-coin-yuanbao-furry-star-coin-orion/fortune-cord-orion-furry-star-coin-2-earless-square-hole.jpg" width="300" alt="Orion furry star coin star chart connection line - starlight headliner pattern"></a>
+<a href="series/orion-collection-part-1"><img src="https://fortunecord.github.io/fortunecord-artworks/8-orion-collection/1-round-coin-yuanbao-furry-star-coin-orion/fortune-cord-orion-furry-star-coin-2-earless-square-hole.jpg" width="350" alt="Orion furry star coin star chart connection line - starlight headliner pattern"></a>
 
 ### [Orion Collection (Part 2)](series/orion-collection-part-2)
 Orion Gemstone Coin Star Chart Connection Line(2/2)<br>
-<a href="series/orion-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/8-orion-collection/5-gemstone-star-coin-orion-v1.0/fortune-cord-gem-2-star-coin-2-orion.jpg" width="300" alt="Orion gemstone star coin star chart connection line - living space art"></a>
+<a href="series/orion-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/8-orion-collection/5-gemstone-star-coin-orion-v1.0/fortune-cord-gem-2-star-coin-2-orion.jpg" width="350" alt="Orion gemstone star coin star chart connection line - living space art"></a>
 
 ### [Southern Cross Collection](series/southern-cross-collection)
 Southern Cross Strawberry Fruit Coin Star Chart Connection Line.<br>
@@ -141,7 +141,7 @@ Western White Tiger: seven mansions reimagined as yuanbao stars connected by cor
 
 ### [Bagua Collection](series/bagua-collection)
 Bagua and coin-cord, Eastern wisdom.<br>
-<a href="series/bagua-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-prenatal-bagua-single-coin-single-line-supporting-from-below.jpg" width="320" alt="Bagua star coin line art - starlight headliner art"></a>
+<a href="series/bagua-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-prenatal-bagua-single-coin-single-line-supporting-from-below.jpg" width="380" alt="Bagua star coin line art - starlight headliner art"></a>
 
 
 *The Map of Wealth, Written in the Stars.*
