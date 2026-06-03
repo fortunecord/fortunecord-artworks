@@ -19,7 +19,7 @@ Big Dipper Star Coin art reimagined for Star Ceiling installation (Part 1 of 7)<
 <a href="series/big-dipper-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.1-two-eared-beast-front-back/coin-cord-big-dipper-7-coins-back-furry-coiled-cord-tail.jpg" width="300" alt="Fortune Cord Big Dipper furry star coin - celestial ceiling pattern"></a>
 
 ### [Big Dipper Collection (Part 3)](series/big-dipper-collection-part-3)
-7 single-eared beasts sitting with fluffy tails (3/7)<br>
+7 single-eared beasts sitting, each with a fluffy tail (3/7)<br>
 <a href="series/big-dipper-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.4-earless-single-ear-beast-back/fortune-cord-big-dipper-7-coins-back-single-ear-furry-fluffy-tail-pocketless.jpg" width="300" alt="Single-ear furry star coin Big Dipper - car roof star design"></a>
 
 ### [Big Dipper Collection (Part 4)](series/big-dipper-collection-part-4)
@@ -40,7 +40,7 @@ Strung Coins Big Dipper (7/7)<br>
 
 ### [Zodiac - Aquarius](series/zodiac-signs-collection-aquarius)
 Earless Fluffy-Back Star Coin – Aquarius Star Chart Connection line.<br>
-<a href="series/zodiac-signs-collection-aquarius"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aquarius/aquarius-furry-star-coin-v1.0/fortune-cord-furry-star-coin-aquarius-star-chart-connection-line-2.jpg" width="300" alt="Aquarius star chart connection line of the Fluffy-Back Star Coins - zodiac pattern for car ceiling"></a>
+<a href="series/zodiac-signs-collection-aquarius"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aquarius/aquarius-furry-star-coin-v1.0/fortune-cord-furry-star-coin-aquarius-star-chart-connection-line-2.jpg" width="300" alt="Aquarius star chart connection line of the Fluffy-Back Coins - car ceiling pattern"></a>
 
 ### [Zodiac - Aries](series/zodiac-signs-collection-aries)
 No-Ear Fluffy-Back Star Coin – Aries Star Chart Connection line.<br>
@@ -56,7 +56,7 @@ Kiwi Fruit Star Coin – Capricorn Star Chart Connection line.<br>
 
 ### [Zodiac - Gemini](series/zodiac-signs-collection-gemini)
 Tulip Star Coin – Gemini Star Chart Connection line.<br>
-<a href="series/zodiac-signs-collection-gemini"><img src="https://fortunecord.com/fortunecord-artworks/4-zodiac-signs-collection/gemini/gemini-flower-star-coin-v1.0/fortune-cord-tulip-flower-star-coin-1b-gemini.jpg" width="300" alt="Gemini floral coin star chart connection line - starlight headliner pattern"></a>
+<a href="series/zodiac-signs-collection-gemini"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/gemini/gemini-flower-star-coin-v1.0/fortune-cord-tulip-flower-star-coin-1b-gemini.jpg" width="300" alt="Gemini floral coin star chart connection line - starlight headliner pattern"></a>
 
 ### [Zodiac - Leo](series/zodiac-signs-collection-leo)
 Two-eared Beast Star Coin - Leo Star Chart Connection Line.<br>
@@ -68,7 +68,7 @@ Libra Yuanbao Star Chart Connection Line.<br>
 
 ### [Zodiac - Pisces](series/zodiac-signs-collection-pisces)
 Pisces Cherry Blossom Flower Coin Star Chart Connection Line.<br>
-<a href="series/zodiac-signs-collection-pisces"><img src="https://fortunecord.com/fortunecord-artworks/4-zodiac-signs-collection/pisces/pisces-flower-star-coin-v1.0/fortune-cord-cherry-blossom-flower-star-coin-1b-pisces.jpg" width="300" alt="Pisces cherry blossom flower star coin star chart connection line - starlight headliner art"></a>
+<a href="series/zodiac-signs-collection-pisces"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/pisces/pisces-flower-star-coin-v1.0/fortune-cord-cherry-blossom-flower-star-coin-1b-pisces.jpg" width="280" alt="Pisces cherry blossom flower star coin star chart connection line - starlight headliner art"></a>
 
 ### [Zodiac - Sagittarius](series/zodiac-signs-collection-sagittarius)
 Sagittarius Orange Coin Star Chart Connection Line.<br>
@@ -96,7 +96,7 @@ Orion Gemstone Coin Star Chart Connection Line(2/2)<br>
 
 ### [Southern Cross Collection](series/southern-cross-collection)
 Southern Cross Strawberry Fruit Coin Star Chart Connection Line.<br>
-<a href="series/southern-cross-collection"><img src="https://fortunecord.com/fortunecord-artworks/9-southern-cross-collection/2-fruit-star-coin-southern-cross-unregistered/fortune-cord-southern-cross-strawberry-fruit-star-coin-2.jpg" width="300" alt="Southern Cross Strawberry Fruit Coin Star Chart Connection Line- circular motif for ceiling"></a>
+<a href="series/southern-cross-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/9-southern-cross-collection/2-fruit-star-coin-southern-cross-unregistered/fortune-cord-southern-cross-strawberry-fruit-star-coin-2.jpg" width="300" alt="Southern Cross Strawberry Fruit Coin Star Chart Connection Line- circular motif for ceiling"></a>
 
 ### [Little Dipper Collection](series/little-dipper-collection)
 Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line.<br>
@@ -104,7 +104,7 @@ Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line.<br>
 
 ### [Hetu Luoshu Collection](series/hetu-luoshu-collection)
 Hetu Luoshu Wealth Numerical Astrology.<br>
-<a href="series/hetu-luoshu-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-taiji-hetu-2.jpg" width="300" alt="Hetu Luoshu Wealth Numerical Astrology pattern"></a>
+<a href="series/hetu-luoshu-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-taiji-hetu-2.jpg" width="320" alt="Hetu Luoshu Wealth Numerical Astrology pattern"></a>
 
 ### [Taiji Collection - Original](series/taiji-collection)
 Yin-Yang Taiji with cord and coin.<br>
@@ -117,19 +117,19 @@ Furry Coin Taiji motif art.<br>
 
 ### [Taiji Collection - Fruit Coin](series/taiji-collection-part-3)
 Fruit Coin Taiji Motif Art.<br>
-<a href="series/taiji-collection-part-3"><img src="https://fortunecord.com/fortunecord-artworks/1-taiji-collection/4-round-coin-taiji-v1.4/mulberry-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord mulberry fruit coin Taiji motif - home decor pattern"></a>
+<a href="series/taiji-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/4-round-coin-taiji-v1.4/mulberry-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord mulberry fruit coin Taiji motif - home decor pattern"></a>
 
 ### [Taiji Collection - Flower & Gemstone Coin](series/taiji-collection-part-4)
 Flower & Gemstone Coin Taiji Motif Art.<br>
-<a href="series/taiji-collection-part-4"><img src="https://fortunecord.com/fortunecord-artworks/1-taiji-collection/5-round-coin-taiji-v1.5/carnation-square-hole-round-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord carnation floral coin Taiji motif - lifestyle decoration pattern"></a>
+<a href="series/taiji-collection-part-4"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/5-round-coin-taiji-v1.5/carnation-square-hole-round-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord carnation floral coin Taiji motif - lifestyle decoration pattern"></a>
 
 ### [28 Mansions - Eastern Azure Dragon](series/28-mansions-collection-east)
 Eastern Azure Dragon, seven mansions reimagined with Rose Flower Star Coin Art.<br>
-<a href="series/28-mansions-collection-east"><img src="https://fortunecord.com/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/eastern-azure-dragon-flower-star-coin-v1.0/fortune-cord-rose-flower-star-coin-3-eastern-azure-dragon.jpg" width="300" alt="Eastern Azure Rose flower star coin - luxury starlight headliner"></a>
+<a href="series/28-mansions-collection-east"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/eastern-azure-dragon-flower-star-coin-v1.0/fortune-cord-rose-flower-star-coin-3-eastern-azure-dragon.jpg" width="350" alt="Eastern Azure Rose flower star coin - luxury starlight headliner"></a>
 
 ### [28 Mansions - Northern Black Tortoise](series/28-mansions-collection-north)
 Northern Black Tortoise: seven mansions reimagined as Cherry Tomato Star Coins connected by cords.<br>
-<a href="series/28-mansions-collection-north"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/northern-black-tortoise/fruit-star-coin-northern-black-tortoise-v1.0/fortune-cord-cherry-tomato-fruit-star-coin-2-northern-black-tortoise.jpg" width="300" alt="Northern Black Tortoise fruit star coin - car roof star motif"></a>
+<a href="series/28-mansions-collection-north"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/northern-black-tortoise/fruit-star-coin-northern-black-tortoise-v1.0/fortune-cord-cherry-tomato-fruit-star-coin-2-northern-black-tortoise.jpg" width="320" alt="Northern Black Tortoise fruit star coin - car roof star motif"></a>
 
 ### [28 Mansions - Southern Vermilion Bird](series/28-mansions-collection-south)
 Southern Vermilion Bird: seven mansions reimagined as coin stars connected by cords.<br>
@@ -137,11 +137,11 @@ Southern Vermilion Bird: seven mansions reimagined as coin stars connected by co
 
 ### [28 Mansions - Western White Tiger](series/28-mansions-collection-west)
 Western White Tiger: seven mansions reimagined as yuanbao stars connected by cords.<br>
-<a href="series/28-mansions-collection-west"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/western-white-tiger/round-coin-yuanbao-western-white-tiger/fortune-cord-yuanbao-western-white-tiger.jpg" width="300" alt="Western White Tiger yuanbao star - luxury interior design pattern"></a>
+<a href="series/28-mansions-collection-west"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/western-white-tiger/round-coin-yuanbao-western-white-tiger/fortune-cord-yuanbao-western-white-tiger.jpg" width="320" alt="Western White Tiger yuanbao star - luxury interior design pattern"></a>
 
 ### [Bagua Collection](series/bagua-collection)
 Bagua and coin-cord, Eastern wisdom.<br>
-<a href="series/bagua-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-prenatal-bagua-single-coin-single-line-supporting-from-below.jpg" width="300" alt="Bagua star coin line art - starlight headliner art"></a>
+<a href="series/bagua-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-prenatal-bagua-single-coin-single-line-supporting-from-below.jpg" width="320" alt="Bagua star coin line art - starlight headliner art"></a>
 
 
 *The Map of Wealth, Written in the Stars.*
