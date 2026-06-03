@@ -27,7 +27,7 @@ Pomeranian Big Dipper (4/7)<br>
 <a href="series/big-dipper-collection-part-4"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.5-pomeranian-samoyed-prick-ear/fortune-cord-big-dipper-7-pomeranian-star-coins-furry-straight-thin-tail-with-pocket.jpg" width="300" alt="Pomeranian star coin Big Dipper - luxury starlight headliner art"></a>
 
 ### [Big Dipper Collection (Part 5)](series/big-dipper-collection-part-5)
-Mulberry Big Dipper (5/7)<br>
+Mulberry Coin Big Dipper (5/7)<br>
 <a href="series/big-dipper-collection-part-5"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/4-fruit-star-coin-big-dipper/fortune-cord-ursa-major-big-dipper-mulberry-fruit-star-coin-2.jpg" width="300" alt="Mulberry fruit star coin Big Dipper - architectural ceiling decoration"></a>
 
 ### [Big Dipper Collection (Part 6)](series/big-dipper-collection-part-6)
@@ -39,20 +39,20 @@ Strung Coins Big Dipper (7/7)<br>
 <a href="series/big-dipper-collection-part-7"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/6-global-star-coin-big-dipper-draft/fortune-cord-global-star-coin-11-big-dipper.jpg" width="300" alt="Strung Coins Big Dipper - starlight headliner design"></a>
 
 ### [Zodiac - Aquarius](series/zodiac-signs-collection-aquarius)
-Fluffy-Back Star Coin – Aquarius Star Chart Connection line.<br>
+Earless Fluffy-Back Star Coin – Aquarius Star Chart Connection line.<br>
 <a href="series/zodiac-signs-collection-aquarius"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aquarius/aquarius-furry-star-coin-v1.0/fortune-cord-furry-star-coin-aquarius-star-chart-connection-line-2.jpg" width="300" alt="Aquarius star chart connection line of the Fluffy-Back Star Coins - zodiac pattern for car ceiling"></a>
 
 ### [Zodiac - Aries](series/zodiac-signs-collection-aries)
-Fluffy-Back Star Coin – Aries Star Chart Connection line.<br>
+No-Ear Fluffy-Back Star Coin – Aries Star Chart Connection line.<br>
 <a href="series/zodiac-signs-collection-aries"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/aries/aries-furry-star-coin-v1.0/fortune-cord-furry-star-coin-aries-star-chart-connection-line-2.jpg" width="300" alt="Aries star chart connection line of the Fluffy-Back Star Coins - decorative art"></a>
 
 ### [Zodiac - Cancer](series/zodiac-signs-collection-cancer)
-Furry Star Coin – Cancer Star Chart Connection line.<br>
+Furry Cat Star Coin – Cancer Star Chart Connection line.<br>
 <a href="series/zodiac-signs-collection-cancer"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/cancer/cancer-furry-star-coin-v1.0/fortune-cord-furry-star-coin-cancer-star-chart-connection-line-8.jpg" width="300" alt="furry star coin cancer star chart connection line - luxury starlight headliner"></a>
 
 ### [Zodiac - Capricorn](series/zodiac-signs-collection-capricorn)
 Kiwi Fruit Star Coin – Capricorn Star Chart Connection line.<br>
-<a href="series/zodiac-signs-collection-capricorn"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/capricorn/capricorn-fruit-star-coin/fortune-cord-kiwi-fruit-star-coin-capricorn-2.jpg" width="300" alt="Capricorn kiwi fruit coin star chart connection line- architectural ceiling art"></a>
+<a href="series/zodiac-signs-collection-capricorn"><img src="https://fortunecord.github.io/fortunecord-artworks/4-zodiac-signs-collection/capricorn/capricorn-fruit-star-coin/fortune-cord-kiwi-fruit-star-coin-capricorn-2.jpg" width="300" alt="Capricorn kiwi fruit coin star chart connection line - architectural ceiling art"></a>
 
 ### [Zodiac - Gemini](series/zodiac-signs-collection-gemini)
 Tulip Star Coin – Gemini Star Chart Connection line.<br>
@@ -96,11 +96,11 @@ Orion Gemstone Coin Star Chart Connection Line(2/2)<br>
 
 ### [Southern Cross Collection](series/southern-cross-collection)
 Southern Cross Strawberry Fruit Coin Star Chart Connection Line.<br>
-<a href="series/southern-cross-collection"><img src="https://fortunecord.com/fortunecord-artworks/9-southern-cross-collection/2-fruit-star-coin-southern-cross-unregistered/fortune-cord-southern-cross-strawberry-fruit-star-coin-2.jpg" width="300" alt="Southern Cross Strawberry Fruit Coin Star Chart Connection Line- architectural decoration"></a>
+<a href="series/southern-cross-collection"><img src="https://fortunecord.com/fortunecord-artworks/9-southern-cross-collection/2-fruit-star-coin-southern-cross-unregistered/fortune-cord-southern-cross-strawberry-fruit-star-coin-2.jpg" width="300" alt="Southern Cross Strawberry Fruit Coin Star Chart Connection Line- circular motif for ceiling"></a>
 
 ### [Little Dipper Collection](series/little-dipper-collection)
 Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line.<br>
-<a href="series/little-dipper-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/7-little-dipper-collection/3-flower-star-coin-ursa-minor/fortune-cord-little-dipper-7-plum-blossom-flower-star-coin-2.jpg" width="300" alt="Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line - starlight headliner design"></a>
+<a href="series/little-dipper-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/7-little-dipper-collection/3-flower-star-coin-ursa-minor/fortune-cord-little-dipper-7-plum-blossom-flower-star-coin-2.jpg" width="300" alt="Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line - ceiling pattern for hotel"></a>
 
 ### [Hetu Luoshu Collection](series/hetu-luoshu-collection)
 Hetu Luoshu Wealth Numerical Astrology.<br>
