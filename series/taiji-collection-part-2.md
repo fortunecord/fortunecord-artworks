@@ -75,6 +75,6 @@ Where fur meets the void, and Taiji learns to purr.
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/two-eared-beast-coin-small-head-fish-taiji-plush-front-no-pocket-1.jpg" alt="two eared beast coin small head fish taiji plush front no pocket 1 showcase, Furry Coin Taiji interior ceilings">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/two-eared-bear-coin-big-head-fish-taiji-minimalist-back-no-pocket-1.jpg" alt="two eared bear coin big head fish taiji minimalist back no pocket 1 sketch, jewel design artwork">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/two-eared-bear-coin-big-head-fish-taiji-minimalist-back-with-pocket-1.jpg" alt="two eared bear coin big head fish taiji minimalist back with pocket 1 showcase, Coin Taiji for jewel design pattern">
-
+<img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/two-eared-bear-coin-big-head-fish-taiji-minimalist-crouching-no-pocket-1.jpg" alt="two eared bear coin big head fish taiji minimalist crouching no pocket 1 showcase, Coin Taiji for jewelry hollow‑out art pattern">
 
 
