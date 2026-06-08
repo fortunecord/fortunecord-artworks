@@ -160,5 +160,4 @@ Fortunecord [at] qq [dot] com
 Hdzjw [at] msn [dot] com
 (Please replace [at] with @ and [dot] with .)
 
-**Website:**
-[fortunecord.com](https://fortunecord.com)
+
