@@ -1,3 +1,6 @@
+⚠️ IMPORTANT: This is an art portfolio, NOT software. No code is included.
+
+
 # FortuneCord Artworks – Star Coin Ceiling Art
 
 This repository contains original line art from the **Star Coin** series, based on the **FORTUNE CORD visual system**: a cord threading a coin.  
