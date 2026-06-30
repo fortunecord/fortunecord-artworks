@@ -10,7 +10,7 @@ This visual system establishes an expression system for star image interpretatio
 
 Potential Applications： 
 Industrial Design: Automotive interiors, ceiling patterns.
-Fashion & Lifestyle: Jewelry, embroidery, textile printing.
+Fashion & Lifestyle: Jewelry & stone carvings, stationery printing, art ornaments, confectionery, textile printing.
 Digital Assets: Blockchain Art (NFTs), Metaverse navigation maps, Game level design.
 UI/UX: Dynamic connecting systems for data visualization.
 
