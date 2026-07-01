@@ -6,8 +6,15 @@
 This repository contains original line art from the **Star Coin** series, based on the **FORTUNE CORD visual system**: a cord threading a coin.  
 It reimagines constellations and cultural symbols – Big Dipper, 12 Zodiac Signs, Constellations, Asterisms, Little Dipper, Orion, Southern Cross, 28 Mansions, Taiji, Bagua, and more – through coin motifs (floral, fruit, furry, gem) that replace star points, all connected by the cord.
 
-Perfect for **starlight headliners**, **automotive ceilings**, **architectural decoration**, **luxury interiors**, as well as **lifestyle decor** – textiles, stationery, home accessories, gift wraps, calendars, apparel, and print products.
+This visual system establishes an expression system for star image interpretation based on the dynamic arrangement of nodes and paths.
 
+Potential Applications：   
+Industrial Design: Automotive interiors, ceiling patterns.  
+Fashion & Lifestyle: Jewelry & stone carvings, stationery printing, art ornaments, confectionery, textile printing.  
+Digital Assets: Blockchain Art (NFTs), Metaverse navigation maps, Game level design.  
+UI/UX: Dynamic connecting systems for data visualization.  
+
+These line art collections are suitable for blockchain-based art, NFT projects, and metaverse environments. The artist reserves all rights for on-chain issuance and metaverse deployment.  
 Browse the complete collection using the **GALLERY INDEX** at the top of this page. Below are some selected examples.
 
 ---
@@ -15,7 +22,7 @@ Browse the complete collection using the **GALLERY INDEX** at the top of this pa
 
 ### [Big Dipper Collection (Part 1)](series/big-dipper-collection-part-1)
 Big Dipper Star Coin art reimagined for Star Ceiling installation (Part 1 of 7)<br>
-<a href="series/big-dipper-collection-part-1"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/2-fortune-cord-asterism-v1.0-round-coin/fortune-cord-asterism-smooth-edge-round-hole-threaded-with-cord-big-dipper-7-coins-1.jpg" width="300" alt="Fortune Cord Big Dipper Star Coin line art - constellation pattern for starlight headliner"></a>
+<a href="series/big-dipper-collection-part-1"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/2-fortune-cord-asterism-v1.0-round-coin/fortune-cord-asterism-milled-edge-square-hole-with-cord-big-dipper-asterism-13.jpg" width="300" alt="Fortune Cord Big Dipper Star Coin line art - suitable for blockchain art, NFT, and metaverse applications"></a>
 
 ### [Big Dipper Collection (Part 2)](series/big-dipper-collection-part-2)
 7 two-eared beasts, each with a furry coiled cord tail and a square pocket (2/7)<br>
@@ -107,7 +114,7 @@ Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line.<br>
 
 ### [Hetu Luoshu Collection](series/hetu-luoshu-collection)
 Hetu Luoshu Wealth Numerical Astrology.<br>
-<a href="series/hetu-luoshu-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-taiji-hetu-2.jpg" width="320" alt="Hetu Luoshu Wealth Numerical Astrology pattern"></a>
+<a href="series/hetu-luoshu-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-taiji-hetu-2.jpg" width="320" alt="Hetu Luoshu Wealth Numerical Astrology pattern - for blockchain art, NFT, and metaverse applications"></a>
 
 ### [Taiji Collection - Original](series/taiji-collection)
 Yin-Yang Taiji with cord and coin.<br>
@@ -136,7 +143,7 @@ Northern Black Tortoise: seven mansions reimagined as Cherry Tomato Star Coins c
 
 ### [28 Mansions - Southern Vermilion Bird](series/28-mansions-collection-south)
 Southern Vermilion Bird: seven mansions reimagined as coin stars connected by cords.<br>
-<a href="series/28-mansions-collection-south"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/southern-vermilion-bird/round-coin-yuanbao-southern-vermilion-bird/fortune-cord-southern-vermilion-bird-1.jpg" width="380" alt="Southern Vermilion Bird star coin - architectural starlight ceiling"></a>
+<a href="series/28-mansions-collection-south"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/southern-vermilion-bird/round-coin-yuanbao-southern-vermilion-bird/fortune-cord-southern-vermilion-bird-1.jpg" width="380" alt="Southern Vermilion Bird star coin - suitable for blockchain art, NFT, and metaverse applications"></a>
 
 ### [28 Mansions - Western White Tiger](series/28-mansions-collection-west)
 Western White Tiger: seven mansions reimagined as yuanbao stars connected by cords.<br>
