@@ -1,4 +1,4 @@
-⚠️ IMPORTANT: This is an art portfolio, NOT software. No code is included.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9caafd6a-8960-41a8-bd21-764c8ae25d8d" />⚠️ IMPORTANT: This is an art portfolio, NOT software. No code is included.
 
 
 # FortuneCord Artworks – Star Coin Ceiling Art
@@ -152,6 +152,12 @@ Western White Tiger: seven mansions reimagined as yuanbao stars connected by cor
 ### [Bagua Collection](series/bagua-collection)
 Bagua and coin-cord, Eastern wisdom.<br>
 <a href="series/bagua-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-prenatal-bagua-single-coin-single-line-supporting-from-below.jpg" width="380" alt="Bagua star coin line art - starlight headliner art"></a>
+
+### [Stellar Radiance](series/stellar-radiance)
+Star Coin Pulse: A coin at the center, rays radiating outward — each ray a cord or chain.<br>
+<a href="series/stellar-radiance"><img src="https://fortunecord.github.io/fortunecord-artworks/10-stellar-radiance/star-coin-pulse-floral-perforation-round-coin-figure-eight-cord-ray.jpg" width="380" alt="star coin pulse line art - starlight headliner pattern"></a>
+
+
 
 
 *The Map of Wealth, Written in the Stars.*
