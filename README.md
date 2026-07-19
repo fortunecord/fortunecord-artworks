@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9caafd6a-8960-41a8-bd21-764c8ae25d8d" />⚠️ IMPORTANT: This is an art portfolio, NOT software. No code is included.
+⚠️ IMPORTANT: This is an art portfolio, NOT software. No code is included.
 
 
 # FortuneCord Artworks – Star Coin Ceiling Art
