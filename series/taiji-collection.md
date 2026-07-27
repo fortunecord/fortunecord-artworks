@@ -1,6 +1,6 @@
 # Taiji Collection - Fortune Coin Art
 
-This artwork presents a Taiji cycle composed of 'coin cord' or 'fortune cord' elements. Rooted in I Ching philosophy, Eastern mysticism, and feng shui wealth concepts. Perfect for **starlight headliners**, **architectural ceilings**, and **interior decor** seeking harmony and vitality. Where eastern philosophy meets starlight.
+This artwork presents a Taiji cycle composed of 'coin cord' or 'fortune cord' elements. Rooted in I Ching philosophy, Eastern mysticism, and feng shui wealth concepts. Perfect for **starlight headliners**, **architectural ceilings**, **interior decor** , **fabric prints**, and **digital collectibles** seeking harmony and vitality. Where eastern philosophy meets starlight.
 
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-1.jpg" alt="fortune cord postnatal taiji forward rotation 1 line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-2.jpg" alt="fortune cord postnatal taiji forward rotation 2 line art, Star Coin Ceiling pattern">
@@ -153,3 +153,38 @@ This artwork presents a Taiji cycle composed of 'coin cord' or 'fortune cord' el
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/2-round-coin-taiji-v1.0-1.2/unregistered/Yuanbao Taiji_Unregistered/fortune-cord-prenatal-bagua-single-yuanbao-double-strand-cord.jpg" alt="fortune cord prenatal bagua single yuanbao double strand cord line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/2-round-coin-taiji-v1.0-1.2/unregistered/Yuanbao Taiji_Unregistered/fortune-cord-prenatal-bagua-single-yuanbao-single-cord.jpg" alt="fortune cord prenatal bagua single yuanbao single cord line art, Star Coin Ceiling pattern">
 <img width="800" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/2-round-coin-taiji-v1.0-1.2/unregistered/Yuanbao Taiji_Unregistered/fortune-cord-prenatal-bagua-single-yuanbao-single-line.jpg" alt="fortune cord prenatal bagua single yuanbao single line line art, Star Coin Ceiling pattern">
+
+
+
+Outer ring and S‑curve replaced by double‑strand cords, O‑chains, cross‑chains, heart‑chains, and square chains. Fish eyes are round coins (with some furry‑coin variations). Pre‑Heaven and Post‑Heaven versions included.
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-o-chain-outer-ring-s-curve-1.jpg" alt="fortune cord pre heaven taiji o chain outer ring s curve 1 line art, i-ching-art-pattern">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-o-chain-outer-ring-1.jpg" alt="fortune cord pre heaven taiji o chain outer ring 1 line art, i-ching-art-symbolism">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-cross-chain-outer-ring-s-curve-2.jpg" alt="fortune cord pre heaven taiji cross chain outer ring s curve 2 line art, taiji-philosophy-artwork">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-cross-chain-outer-ring-2.jpg" alt="fortune cord pre heaven taiji cross chain outer ring 2 line art, yin-yang-geometric-pattern">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-double-strand-outer-ring-s-curve-fish-eye.jpg" alt="fortune cord pre heaven taiji double strand outer ring s curve fish eye line art, cosmic-duality-pattern">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-double-strand-outer-ring-s-curve.jpg" alt="fortune cord pre heaven taiji double strand outer ring s curve line art, taiji-chinese-coin-motif">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-double-strand-outer-ring.jpg" alt="fortune cord pre heaven taiji double strand outer ring line art, occult-symbol-line-drawing">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-heart-chain-outer-ring-s-curve.jpg" alt="fortune cord pre heaven taiji heart chain outer ring s curve line art, sacred-geometry-coin-art">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-heart-chain-outer-ring.jpg" alt="fortune cord pre heaven taiji heart chain outer ring line art, automotive-headliner-pattern">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-through-frame-square-chain-outer-ring-s-curve.jpg" alt="fortune cord pre heaven taiji through frame square chain outer ring s curve line art, architectural-ceiling-motif">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-through-frame-square-chain-outer-ring.jpg" alt="fortune cord pre heaven taiji through frame square chain outer ring line art, i-ching-art-pattern">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-touch-frame-square-chain-outer-ring-s-curve.jpg" alt="fortune cord pre heaven taiji touch frame square chain outer ring s curve line art, surface-pattern-illustration">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-pre-heaven-taiji-touch-frame-square-chain-outer-ring.jpg" alt="fortune cord pre heaven taiji touch frame square chain outer ring line art, textile-print-idea">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-o-chain-outer-ring-s-curve.jpg" alt="fortune cord post heaven taiji o chain outer ring s curve line art, i-ching-interior-wall-art-design">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-o-chain-outer-ring.jpg" alt="fortune cord post heaven taiji o chain outer ring line art, i-ching-alchemist-sketchbook">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-single-strand-outer-ring-yin-yang-s-curve.jpg" alt="fortune cord post heaven taiji single strand outer ring yin yang s curve line art, i-ching-coin-thread-sketch">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-double-strand-outer-ring-s-curve-fish-eye.jpg" alt="fortune cord post heaven taiji double strand outer ring s curve fish eye line art, i-ching-black-white-ornament">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-double-strand-outer-ring-s-curve.jpg" alt="fortune cord post heaven taiji double strand outer ring s curve line art, i-ching-yin-yang-coin-linework">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-double-strand-outer-ring.jpg" alt="fortune cord post heaven taiji double strand outer ring line art, tai-chi-symbol-variation">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-heart-chain-outer-ring-s-curve.jpg" alt="fortune cord post heaven taiji heart chain outer ring s curve line art, i-ching-taoist-wisdom-pattern">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-heart-chain-outer-ring.jpg" alt="fortune cord post heaven taiji heart chain outer ring line art, taiji-chain-linework">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-square-chain-outer-ring-s-curve.jpg" alt="fortune cord post heaven taiji square chain outer ring s curve line art, balance-pattern-symbolism">
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-post-heaven-taiji-square-chain-outer-ring.jpg" alt="fortune cord post heaven taiji square chain outer ring line art, i-ching-ornamental-coin-drawing">
+
+
+
+
+
+
+
