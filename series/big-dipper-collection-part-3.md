@@ -1,6 +1,6 @@
 # Big Dipper Collection (Part 3) – Star Coin Ceiling Art
 
-Third part of the Great Bear, the Dipper shines bright. Discover minimalist celestial motifs in this third installment – tailored for car roof star decoration or celestial headliner..
+Third part of the Great Bear, the Dipper shines bright. Discover minimalist celestial motifs in this third installment – tailored for car roof star decoration or celestial headliner.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.2-cat-front-side-furry-minimalist/fortune-cord-big-dipper-7-coins-cat-front-feline-braided-cord-tail-pocketless.jpg" alt="fortune cord big dipper 7 coins cat front feline braided cord tail pocketless line art, Star Coin Ceiling pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.2-cat-front-side-furry-minimalist/fortune-cord-big-dipper-7-coins-cat-front-feline-braided-cord-tail.jpg" alt="fortune cord big dipper 7 coins cat front feline braided cord tail line art, celestial ceiling decoration">
