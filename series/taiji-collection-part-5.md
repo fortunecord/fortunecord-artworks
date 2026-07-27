@@ -1,4 +1,4 @@
-# Taiji Collection – Chain & Double Strand Taiji (Part 5)
+# Taiji Collection – Blockchain Taiji, Chain Taiji, Double Strand Taiji. (Part 5)
 
 Outer ring and S‑curve replaced by double‑strand cords, O‑chains, cross‑chains, heart‑chains, and square chains. Fish eyes are round coins (with some furry‑coin variations). Pre‑Heaven and Post‑Heaven versions included.
 
