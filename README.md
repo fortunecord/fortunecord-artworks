@@ -122,11 +122,12 @@ Coin cord Taiji.<br>
 
 ### [Taiji Collection - Coin Taiji](series/taiji-collection-part-2)
 Coin Taiji.<br>
-<a href="series/taiji-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/2-round-coin-taiji-v1.0-1.2/round-coin-taiji-v1.0/fortune-cord-coin-big-head-double-fish-taiji-forward-rotation.jpg" width="320" alt="fortune cord coin big head double fish taiji forward rotation linework, Taiji Coin print pattern"></a>
+<a href="series/taiji-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/2-round-coin-taiji-v1.0-1.2/round-coin-taiji-v1.2/fortune-cord-smooth-edge-square-hole-coin-small-head-fish-taiji.jpg" width="320" alt="fortune cord smooth edge square hole coin small head fish taiji linework, Taiji Coin print pattern"></a>
 
 ### [Taiji Collection - Furry Coin](series/taiji-collection-part-3)
 Furry Coin Taiji motif art.<br>
 <a href="series/taiji-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/round-cat-coin-big-head-fish-taiji-front-minimalist-no-pocket-1.jpg" width="320" alt="Fortune Cord Cat Taiji - Taiji Coin print pattern"></a>
+<br>
 <a href="series/taiji-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/single-ear-furry-coin-big-head-fish-taiji-crouching-back-no-pocket-1.jpg" width="320" alt="Fortune Cord Single Ear Cat Taiji - lifestyle product pattern"></a>
 
 ### [Taiji Collection - Fruit Coin](series/taiji-collection-part-4)
