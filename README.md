@@ -22,7 +22,7 @@ Browse the complete collection using the **GALLERY INDEX** at the top of this pa
 
 ### [Big Dipper Collection (Part 1)](series/big-dipper-collection-part-1)
 Big Dipper Star Coin art reimagined for Star Ceiling installation (Part 1 of 7)<br>
-<a href="series/big-dipper-collection-part-1"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/2-fortune-cord-asterism-v1.0-round-coin/fortune-cord-asterism-milled-edge-square-hole-with-cord-big-dipper-asterism-13.jpg" width="300" alt="Fortune Cord Big Dipper Star Coin line art - suitable for blockchain art, NFT, and metaverse applications"></a>
+<a href="series/big-dipper-collection-part-1"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/fortune-cord-big-dipper-7-coins-4.jpg" width="300" alt="fortune cord big dipper 7 coins line art - suitable for blockchain art, NFT, and metaverse applications"></a>
 
 ### [Big Dipper Collection (Part 2)](series/big-dipper-collection-part-2)
 7 two-eared beasts, each with a furry coiled cord tail and a square pocket (2/7)<br>
