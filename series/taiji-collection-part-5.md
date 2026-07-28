@@ -1,4 +1,4 @@
-# Taiji Collection (part 4) – Flower & Gemstone Coin Taiji Motif Art
+# Taiji Collection (part 5) – Flower & Gemstone Coin Taiji Motif Art
 
 In this series, the two fish eyes of the Taiji diagram are replaced by **flower coins** and **gemstone coins** – each blooming or sparkling with a square hole (or square mark) at the center – a signature of the coin.
 
