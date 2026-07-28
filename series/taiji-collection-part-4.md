@@ -1,4 +1,4 @@
-# Taiji Collection (part 3) – Fruit Coin Taiji
+# Taiji Collection (part 4) – Fruit Coin Taiji
 
 Instead of traditional fish eyes, **fruit coins** now sit at the heart of Taiji — apple, strawberry, mango, grape, each carrying the shape of a round coin with a soft, fruity character.  
 White fruit coin (yang) symbolizes active, visible, circulating wealth.
