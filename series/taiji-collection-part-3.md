@@ -1,4 +1,4 @@
-# Taiji Collection (part 2) - Furry Coin Art
+# Taiji Collection (part 3) - Furry Coin Art
 
 Instead of traditional fish eyes, two furry coins now sit at the heart of Taiji — one light, one dark. **White furry round coin** symbolizes positive, visible, circulating wealth.  **Black furry round coin** symbolizes passive, hidden, stored capital. 
 This is not a mere replacement. It is a conversation: between yin and yang, between feng shui wealth and cosmic balance, between the soft and the eternal.
