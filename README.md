@@ -116,26 +116,30 @@ Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line.<br>
 Hetu Luoshu Wealth Numerical Astrology.<br>
 <a href="series/hetu-luoshu-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-taiji-hetu-2.jpg" width="320" alt="Hetu Luoshu Wealth Numerical Astrology pattern - for blockchain art, NFT, and metaverse applications"></a>
 
-### [Taiji Collection - Original](series/taiji-collection)
-Yin-Yang Taiji with cord and coin.<br>
+### [Taiji Collection - Fortune Cord Taiji](series/taiji-collection)
+Coin cord Taiji.<br>
 <a href="series/taiji-collection"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/1-fortune-cord-taiji-v1.0/fortune-cord-postnatal-taiji-forward-rotation-3.jpg" width="300" alt="Fortune Cord postnatal Taiji with cord and coin - starlight headliner art"></a>
 
-### [Taiji Collection - Furry Coin](series/taiji-collection-part-2)
+### [Taiji Collection - Coin Taiji](series/taiji-collection-part-2)
+Coin Taiji.<br>
+<a href="series/taiji-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/2-round-coin-taiji-v1.0-1.2/round-coin-taiji-v1.0/fortune-cord-coin-big-head-double-fish-taiji-forward-rotation.jpg" width="320" alt="fortune cord coin big head double fish taiji forward rotation linework, Taiji Coin print pattern"></a>
+
+### [Taiji Collection - Furry Coin](series/taiji-collection-part-3)
 Furry Coin Taiji motif art.<br>
-<a href="series/taiji-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/round-cat-coin-big-head-fish-taiji-front-minimalist-no-pocket-1.jpg" width="320" alt="Fortune Cord Cat Taiji - Taiji Coin print pattern"></a>
-<a href="series/taiji-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/single-ear-furry-coin-big-head-fish-taiji-crouching-back-no-pocket-1.jpg" width="320" alt="Fortune Cord Single Ear Cat Taiji - lifestyle product pattern"></a>
+<a href="series/taiji-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/round-cat-coin-big-head-fish-taiji-front-minimalist-no-pocket-1.jpg" width="320" alt="Fortune Cord Cat Taiji - Taiji Coin print pattern"></a>
+<a href="series/taiji-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/3-round-coin-taiji-v1.3/single-ear-furry-coin-big-head-fish-taiji-crouching-back-no-pocket-1.jpg" width="320" alt="Fortune Cord Single Ear Cat Taiji - lifestyle product pattern"></a>
 
-### [Taiji Collection - Fruit Coin](series/taiji-collection-part-3)
+### [Taiji Collection - Fruit Coin](series/taiji-collection-part-4)
 Fruit Coin Taiji Motif Art.<br>
-<a href="series/taiji-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/4-round-coin-taiji-v1.4/mulberry-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord mulberry fruit coin Taiji motif - home decor pattern"></a>
+<a href="series/taiji-collection-part-4"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/4-round-coin-taiji-v1.4/mulberry-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord mulberry fruit coin Taiji motif - home decor pattern"></a>
 
-### [Taiji Collection - Flower & Gemstone Coin](series/taiji-collection-part-4)
+### [Taiji Collection - Flower & Gemstone Coin](series/taiji-collection-part-5)
 Flower & Gemstone Coin Taiji Motif Art.<br>
-<a href="series/taiji-collection-part-4"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/5-round-coin-taiji-v1.5/carnation-square-hole-round-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord carnation floral coin Taiji motif - lifestyle decoration pattern"></a>
+<a href="series/taiji-collection-part-5"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/5-round-coin-taiji-v1.5/carnation-square-hole-round-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord carnation floral coin Taiji motif - lifestyle decoration pattern"></a>
 
-### [Taiji Collection - Chain & Double Strand Coin](series/taiji-collection-part-5)
+### [Taiji Collection - Chain & Double Strand Coin](series/taiji-collection-part-6)
 Blockchain Taiji, Chain Taiji, Double Strand Taiji Motif Art.<br>
-<a href="series/taiji-collection-part-5"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/6-fortune-cord-taiji-v1.1/fortune-cord-post-heaven-taiji-square-chain-outer-ring-s-curve.jpg" width="320" alt="Fortune Cord Blockchain Taiji and Chain Taiji motif - i-ching-symbolism decoration pattern"></a>
+<a href="series/taiji-collection-part-6"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/6-fortune-cord-taiji-v1.1/fortune-cord-post-heaven-taiji-square-chain-outer-ring-s-curve.jpg" width="320" alt="Fortune Cord Blockchain Taiji and Chain Taiji motif - i-ching-symbolism decoration pattern"></a>
 
 ### [28 Mansions - Eastern Azure Dragon](series/28-mansions-collection-east)
 Eastern Azure Dragon, seven mansions reimagined with Rose Flower Star Coin Art.<br>
