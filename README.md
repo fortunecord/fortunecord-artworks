@@ -133,6 +133,10 @@ Fruit Coin Taiji Motif Art.<br>
 Flower & Gemstone Coin Taiji Motif Art.<br>
 <a href="series/taiji-collection-part-4"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/5-round-coin-taiji-v1.5/carnation-square-hole-round-coin-big-head-fish-taiji.jpg" width="320" alt="Fortune Cord carnation floral coin Taiji motif - lifestyle decoration pattern"></a>
 
+### [Taiji Collection - Chain & Double Strand Coin](series/taiji-collection-part-5)
+Blockchain Taiji, Chain Taiji, Double Strand Taiji Motif Art.<br>
+<a href="series/taiji-collection-part-5"><img src="https://fortunecord.github.io/fortunecord-artworks/1-taiji-collection/6-fortune-cord-taiji-v1.1/fortune-cord-post-heaven-taiji-square-chain-outer-ring-s-curve.jpg" width="320" alt="Fortune Cord Blockchain Taiji and Chain Taiji motif - i-ching-symbolism decoration pattern"></a>
+
 ### [28 Mansions - Eastern Azure Dragon](series/28-mansions-collection-east)
 Eastern Azure Dragon, seven mansions reimagined with Rose Flower Star Coin Art.<br>
 <a href="series/28-mansions-collection-east"><img src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/eastern-azure-dragon-flower-star-coin-v1.0/fortune-cord-rose-flower-star-coin-3-eastern-azure-dragon.jpg" width="350" alt="Eastern Azure Rose flower star coin - luxury starlight headliner"></a>
