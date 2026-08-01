@@ -21,32 +21,36 @@ Browse the complete collection using the **GALLERY INDEX** at the top of this pa
 
 
 ### [Big Dipper Collection (Part 1)](series/big-dipper-collection-part-1)
-Big Dipper Star Coin art reimagined for Star Ceiling installation (Part 1 of 7)<br>
+Big Dipper Star Coin art reimagined for Star Ceiling installation (Part 1 of 9)<br>
 <a href="series/big-dipper-collection-part-1"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/fortune-cord-big-dipper-7-coins-4.jpg" width="300" alt="fortune cord big dipper 7 coins line art - suitable for blockchain art, NFT, and metaverse applications"></a>
 
 ### [Big Dipper Collection (Part 2)](series/big-dipper-collection-part-2)
-7 two-eared beasts, each with a furry coiled cord tail and a square pocket (2/7)<br>
+7 two-eared beasts, each with a furry coiled cord tail and a square pocket (2/9)<br>
 <a href="series/big-dipper-collection-part-2"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.1-two-eared-beast-front-back/coin-cord-big-dipper-7-coins-back-furry-coiled-cord-tail.jpg" width="300" alt="Fortune Cord Big Dipper furry star coin - celestial ceiling pattern"></a>
 
 ### [Big Dipper Collection (Part 3)](series/big-dipper-collection-part-3)
-7 single-eared beasts sitting, each with a fluffy tail (3/7)<br>
-<a href="series/big-dipper-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.4-earless-single-ear-beast-back/fortune-cord-big-dipper-7-coins-back-single-ear-furry-fluffy-tail-pocketless.jpg" width="300" alt="Single-ear furry star coin Big Dipper - car roof star design"></a>
+Furry cat coins (3/9)<br>
+<a href="series/big-dipper-collection-part-3"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-front-fur-tail-2.jpg" width="300" alt="7 cats furry star coin Big Dipper - star motif ornamental line drawing"></a>
 
 ### [Big Dipper Collection (Part 4)](series/big-dipper-collection-part-4)
-Pomeranian Big Dipper (4/7)<br>
-<a href="series/big-dipper-collection-part-4"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.5-pomeranian-samoyed-prick-ear/fortune-cord-big-dipper-7-pomeranian-star-coins-furry-straight-thin-tail-with-pocket.jpg" width="300" alt="Pomeranian star coin Big Dipper - luxury starlight headliner art"></a>
+7 single-eared beasts sitting, each with a fluffy tail (4/9)<br>
+<a href="series/big-dipper-collection-part-4"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.4-earless-single-ear-beast-back/fortune-cord-big-dipper-7-coins-back-single-ear-furry-fluffy-tail-pocketless.jpg" width="300" alt="Single-ear furry star coin Big Dipper - constellation line art motif"></a>
 
 ### [Big Dipper Collection (Part 5)](series/big-dipper-collection-part-5)
-Mulberry Coin Big Dipper (5/7)<br>
-<a href="series/big-dipper-collection-part-5"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/4-fruit-star-coin-big-dipper/fortune-cord-ursa-major-big-dipper-mulberry-fruit-star-coin-2.jpg" width="300" alt="Mulberry fruit star coin Big Dipper - architectural ceiling decoration"></a>
+Pomeranian Big Dipper (5/9)<br>
+<a href="series/big-dipper-collection-part-5"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.5-pomeranian-samoyed-prick-ear/fortune-cord-big-dipper-7-pomeranian-star-coins-furry-straight-thin-tail-with-pocket.jpg" width="300" alt="Pomeranian star coin Big Dipper - luxury starlight headliner art"></a>
 
-### [Big Dipper Collection (Part 6)](series/big-dipper-collection-part-6)
-Carnation Coin Big Dipper (6/7)<br> 
-<a href="series/big-dipper-collection-part-6"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/5-flower-star-coin-big-dipper/fortune-cord-carnation-flower-star-coin-2-big-dipper.jpg" width="300" alt="Carnation floral star coin Big Dipper - home decor textile"></a>
+### [Big Dipper Collection (Part 5)](series/big-dipper-collection-part-6)
+Mulberry Coin Big Dipper (6/9)<br>
+<a href="series/big-dipper-collection-part-6"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/4-fruit-star-coin-big-dipper/fortune-cord-ursa-major-big-dipper-mulberry-fruit-star-coin-2.jpg" width="300" alt="Mulberry fruit star coin Big Dipper - architectural ceiling decoration"></a>
 
-### [Big Dipper Collection (Part 7)](series/big-dipper-collection-part-7)
-Strung Coins Big Dipper (7/7)<br>
-<a href="series/big-dipper-collection-part-7"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/6-global-star-coin-big-dipper-draft/fortune-cord-global-star-coin-11-big-dipper.jpg" width="300" alt="Strung Coins Big Dipper - starlight headliner design"></a>
+### [Big Dipper Collection (Part 6)](series/big-dipper-collection-part-7)
+Carnation Coin Big Dipper (7/9)<br> 
+<a href="series/big-dipper-collection-part-7"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/5-flower-star-coin-big-dipper/fortune-cord-carnation-flower-star-coin-2-big-dipper.jpg" width="300" alt="Carnation floral star coin Big Dipper - home decor textile"></a>
+
+### [Big Dipper Collection (Part 7)](series/big-dipper-collection-part-8)
+Strung Coins Big Dipper (8/9)<br>
+<a href="series/big-dipper-collection-part-8"><img src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/6-global-star-coin-big-dipper-draft/fortune-cord-global-star-coin-11-big-dipper.jpg" width="300" alt="Strung Coins Big Dipper - starlight headliner design"></a>
 
 ### [Zodiac - Aquarius](series/zodiac-signs-collection-aquarius)
 Earless Fluffy-Back Star Coin – Aquarius Star Chart Connection line.<br>
