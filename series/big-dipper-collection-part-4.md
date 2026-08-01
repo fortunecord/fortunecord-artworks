@@ -1,4 +1,4 @@
-# Big Dipper Collection (Part 3) – Star Coin Ceiling Art
+# Big Dipper Collection (Part 4) – Star Coin Ceiling Art
 
 Third part of the Great Bear, the Dipper shines bright. Discover minimalist celestial motifs in this third installment – tailored for car roof star decoration or celestial headliner.
 
