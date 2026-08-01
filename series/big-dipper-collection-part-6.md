@@ -1,4 +1,4 @@
-# Big Dipper Collection (Part 5) – Star Coin Ceiling Art
+# Big Dipper Collection (Part 6) – Star Coin Ceiling Art
 
 A spoonful of stars, dipping into the cosmic sea. Part five features Big Dipper star coin art with a focus on clean black and white contrast – for automotive ceilings and zen spaces. From ancient sky to modern headliner.
 
