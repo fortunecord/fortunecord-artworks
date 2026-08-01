@@ -1,0 +1,100 @@
+# Big Dipper Collection (Part 3) – Furry Beast Coins
+
+This part continues the furry beast series with front, back, and side views of two-eared cats in various tail styles — coiled, braided, fluffy, and straight.
+
+---
+
+### Series Details
+- Coin types: Two-eared beast
+- Tail styles: Braided · Coiled · Fluffy · Straight · Thin
+- Poses: Sitting · Squatting
+- Views: Front · Back
+
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-2-ear-coins-2-feline-pocket-thin-tail.jpg" alt="fortune cord big dipper 2 ear coins 2 feline pocket thin tail line art, furry star coin ceiling pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-2-ear-coins-feline-cord-tail.jpg" alt="fortune cord big dipper 2 ear coins feline cord tail line art, big dipper pet coin constellation art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-2-ear-coins-feline-fur-tail.jpg" alt="fortune cord big dipper 2 ear coins feline fur tail line art, celestial furry coin motif design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-2-ear-coins-feline-thin-tail.jpg" alt="fortune cord big dipper 2 ear coins feline thin tail line art, star pet coin ceiling artwork">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-2-ear-coins-pocket-cord-tail-2.jpg" alt="fortune cord big dipper 2 ear coins pocket cord tail 2 line art, furry constellation coin design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-back-backpack-tail.jpg" alt="fortune cord big dipper 7 cats coins back backpack tail line art, big dipper pet star pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-feline-back-cord-tail.jpg" alt="fortune cord big dipper 7 cats coins feline back cord tail line art, cosmic pet coin ceiling art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-feline-back-fur-tail.jpg" alt="fortune cord big dipper 7 cats coins feline back fur tail line art, starry furry coin motif">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-feline-back-thin-tail.jpg" alt="fortune cord big dipper 7 cats coins feline back thin tail line art, feline star ceiling design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-feline-front-cord-tail.jpg" alt="fortune cord big dipper 7 cats coins feline front cord tail line art, big dipper pet coin emblem">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-feline-front-fur-tail.jpg" alt="fortune cord big dipper 7 cats coins feline front fur tail line art, furry star chart pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-feline-front-thin-tail.jpg" alt="fortune cord big dipper 7 cats coins feline front thin tail line art, celestial pet coin illustration">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-back-cord-tail.jpg" alt="fortune cord big dipper 7 cats coins furry back cord tail line art, starry pet coin ceiling decor">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-back-fur-tail.jpg" alt="fortune cord big dipper 7 cats coins furry back fur tail line art, big dipper furry coin artwork">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-back-thin-tail.jpg" alt="fortune cord big dipper 7 cats coins furry back thin tail line art, cosmic furry ceiling pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-front-cord-tail.jpg" alt="fortune cord big dipper 7 cats coins furry front cord tail line art, star coin pet motif design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-front-fur-tail-2.jpg" alt="fortune cord big dipper 7 cats coins furry front fur tail 2 line art, furry celestial ceiling art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-front-fur-tail.jpg" alt="fortune cord big dipper 7 cats coins furry front fur tail line art, big dipper pet star ceiling">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-front-thin-tail-2.jpg" alt="fortune cord big dipper 7 cats coins furry front thin tail 2 line art, starry furry coin ceiling pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-front-thin-tail.jpg" alt="fortune cord big dipper 7 cats coins furry front thin tail line art, celestial feline star design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-side-cord-tail.jpg" alt="fortune cord big dipper 7 cats coins furry side cord tail line art, big dipper coin pet art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-side-fur-tail.jpg" alt="fortune cord big dipper 7 cats coins furry side fur tail line art, cosmic pet star coin pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-7-cats-coins-furry-side-thin-tail.jpg" alt="fortune cord big dipper 7 cats coins furry side thin tail line art, furry star ceiling design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-2-ear.jpg" alt="fortune cord feline 2 ear line art, big dipper pet constellation motif">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-back-2.jpg" alt="fortune cord feline cat back 2 line art, celestial furry coin artwork">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-back.jpg" alt="fortune cord feline cat back line art, starry pet coin design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-expression-1.jpg" alt="fortune cord feline cat expression 1 line art, big dipper furry star pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-expression-2.jpg" alt="fortune cord feline cat expression 2 line art, cosmic pet coin ceiling art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-expression-3.jpg" alt="fortune cord feline cat expression 3 line art, starry celestial feline motif">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-expression-4.jpg" alt="fortune cord feline cat expression 4 line art, big dipper pet coin emblem art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-expression-6.jpg" alt="fortune cord feline cat expression 6 line art, furry constellation ceiling decor">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-expression-7.jpg" alt="fortune cord feline cat expression 7 line art, cosmic furry star chart design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-expression-8.jpg" alt="fortune cord feline cat expression 8 line art, star coin pet ceiling pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-expression-9.jpg" alt="fortune cord feline cat expression 9 line art, big dipper furry constellation art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-front-2.jpg" alt="fortune cord feline cat front 2 line art, celestial star pet motif design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-front.jpg" alt="fortune cord feline cat front line art, starry big dipper coin ceiling">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-cat-side.jpg" alt="fortune cord feline cat side line art, cosmic pet coin star pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-feline-expression-coiled-tail-5.jpg" alt="fortune cord feline expression coiled tail 5 line art, furry celestial ceiling pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-furry-cat-back-2.jpg" alt="fortune cord furry cat back 2 line art, big dipper star coin pet design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-furry-cat-back.jpg" alt="fortune cord furry cat back line art, starry furry ceiling art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-furry-cat-front-2.jpg" alt="fortune cord furry cat front 2 line art, cosmic big dipper pet motif">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-furry-cat-front.jpg" alt="fortune cord furry cat front line art, star coin furry ceiling pattern">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-furry-cat-side.jpg" alt="fortune cord furry cat side line art, celestial furry star coin design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets-standard-unit/fortune-cord-plush-cat-expression-coiled-tail-5.jpg" alt="fortune cord plush cat expression coiled tail 5 line art, big dipper plush star ceiling motif">
