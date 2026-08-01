@@ -1,5 +1,9 @@
+# 默认布局：所有文件都套用 default 模板
 defaults:
   - scope:
       path: ""          # 仓库所有文件
     values:
       layout: default
+
+# 使无后缀链接（如 /series/xxx）指向对应的 .md 文件
+permalink: /:path/
