@@ -1,4 +1,4 @@
-# Big Dipper Collection (Part 8) – Bear, Rabbit & Other Animal Stars
+# Big Dipper Collection (Part 9) – Bear, Rabbit & Other Animal Stars
 
 Beyond the seven cats and dogs, the Big Dipper welcomes new companions. This part introduces **seven bears** and **seven rabbits**, each carrying the signature square pocket (or square mark) and minimalist line art style.
 
