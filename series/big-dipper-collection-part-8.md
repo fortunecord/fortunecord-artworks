@@ -1,4 +1,4 @@
-# Big Dipper Collection (Part 7) – Star Coin Ceiling Art
+# Big Dipper Collection (Part 8) – Star Coin Ceiling Art
 
 The Dipper never sets – it revolves around the pole forever. The final part completes the **Big Dipper series** with diverse interpretations of the same seven stars, use for complete headliner collections and cosmic interior design. Seven stars, guiding ladle.
 
