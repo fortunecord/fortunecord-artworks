@@ -1,4 +1,4 @@
-# Big Dipper Collection (Part 4) – Star Coin Ceiling Art
+# Big Dipper Collection (Part 5) – Star Coin Ceiling Art
 
 Fourth part: **Big Dipper furry star coin motifs** – Dipper of the North, versatile patterns for **starlight headliners**, **building ceilings**, and **luxury interior design**. Minimalist lines meet cosmic ceiling.
 
