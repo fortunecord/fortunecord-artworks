@@ -1,4 +1,4 @@
-# Big Dipper Collection (Part 6) – Star Coin Ceiling Art
+# Big Dipper Collection (Part 7) – Star Coin Ceiling Art
 
 In many cultures, the seven stars are elders watching over the north. This sixth part presents **Big Dipper celestial patterns** suitable for **starlight headliners**, **architectural ceilings**, **star coin rooftop art** and **custom cosmic interiors**.
 
