@@ -1,5 +1,9 @@
+# Default layout: all .md files use the default template
 defaults:
   - scope:
-      path: ""          # 仓库所有文件
+      path: ""
     values:
       layout: default
+
+# Enable clean URLs: /series/xxx points to /series/xxx.md
+permalink: /:path/
