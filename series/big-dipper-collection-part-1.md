@@ -138,5 +138,11 @@ Explore **Big Dipper star coin ceiling art** – the seven-star ladle，the firs
 
 <img width="600" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/big-dipper-double-strand-floral-hole-coin.jpg" alt="big dipper double strand floral hole coin line art, celestial pattern illustration">
 
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/blockchain-big-dipper-four-flared-corners-hole-coin.jpg" alt="blockchain big dipper four flared corners hole coin line art, chain-linked star coin ceiling pattern">
 
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/blockchain-big-dipper-round-hole-coin.jpg" alt="blockchain big dipper round hole coin line art, chain-connected constellation design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/blockchain-big-dipper-square-hole-coin.jpg" alt="blockchain big dipper square hole coin line art, digital star coin motif">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/1-fortune-cord-constellation-round-coin-yuanbao-excerpt/blockchain-big-dipper-floral-hole-coin.jpg" alt="blockchain big dipper floral hole coin line art, chain-linked celestial artwork">
 
