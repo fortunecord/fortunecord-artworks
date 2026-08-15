@@ -172,7 +172,9 @@ Bagua and coin-cord, Eastern wisdom.<br>
 Star Coin Pulse: A coin at the center, rays radiating outward — each ray a cord or chain.<br>
 <img src="https://fortunecord.github.io/fortunecord-artworks/10-stellar-radiance/star-coin-pulse-floral-perforation-round-coin-figure-eight-cord-ray.jpg" width="380" alt="star coin pulse line art - starlight headliner pattern">
 
-
+### [Digits](series/digits.md)
+Digits 0–9 in cord and coin. <br>
+<img src="https://fortunecord.github.io/fortunecord-artworks/11-digits/double-threaded-single-coin-0-9a.jpg" width="380" alt="double threaded single coin digit line art, cord and coin numeral system">
 
 
 *The Map of Wealth, Written in the Stars.*
