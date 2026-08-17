@@ -34,3 +34,14 @@ A visual exploration of digits 0 through 9 using the core language of cord and c
 <img width="500" src="https://fortunecord.github.io/fortunecord-artworks/11-digits/double-threaded-double-coin-0-9a.jpg" alt="double threaded double coin digit 0 to 9 line art, double coin double thread design">
 
 <img width="500" src="https://fortunecord.github.io/fortunecord-artworks/11-digits/multi-coin-array-0-9a.jpg" alt="multi coin array digit 0 to 9 line art, coin array number system">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/11-digits/single-threaded-single-four-flared-corners-hole-coin-0-9a.jpg" alt="single threaded single four flared corners hole coin digit 0 to 9 line art, Fortune Cord numerical system">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/11-digits/single-threaded-single-four-protruding-corners-hole-coin-0-9a.jpg" alt="single threaded single four protruding corners hole coin digit 0 to 9 artwork, cord and coin digit design">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/11-digits/single-threaded-single-round-hole-coin-0-9a.jpg" alt="single threaded single round hole coin digit 0 to 9 line art, cord-threaded numeral artwork">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/11-digits/single-threaded-single-floral-hole-coin-0-9a.jpg" alt="single threaded single floral hole coin digit 0 to 9 line art, numbered coin pattern">
+
+
+
