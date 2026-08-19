@@ -2,7 +2,7 @@
 
 This part continues the furry beast series with front, back, and side views of two-eared cats in various tail styles — coiled, braided, fluffy, and straight.
 
-### Series Details
+Series Details:
 - Coin types: Two-eared beast
 - Tail styles: Braided · Coiled · Fluffy · Straight · Thin
 - Poses: Sitting · Squatting
