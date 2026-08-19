@@ -6,7 +6,6 @@ layout: default
 
 Journey into **Eastern Azure Dragon star coin ceiling art** – the 28 lunar mansions, ancient celestial guardian of the east. Great for **starlight headliners**, **architectural ceilings**, and **mythical cosmic decor**.
 
-<div class="gallery-grid">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/eastern-azure-dragon-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-1-eastern-azure-dragon.jpg" alt="fortune cord carnation flower star coin 1 eastern azure dragon line art, floral star coin ceiling pattern">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/eastern-azure-dragon-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-2-eastern-azure-dragon.jpg" alt="fortune cord carnation flower star coin 2 eastern azure dragon line art, celestial guardian star motif">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/eastern-azure-dragon-flower-star-coin-v1.0/fortune-cord-carnation-flower-star-coin-3-eastern-azure-dragon.jpg" alt="fortune cord carnation flower star coin 3 eastern azure dragon line art, starlight headliner design pattern">
@@ -78,4 +77,4 @@ Journey into **Eastern Azure Dragon star coin ceiling art** – the 28 lunar man
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/round-coin-yuanbao-eastern-azure-dragon/fortune-cord-round-hole-coin-eastern-azure-dragon.jpg" alt="fortune cord round hole coin eastern azure dragon line art, round hole lunar mansion star design">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/round-coin-yuanbao-eastern-azure-dragon/fortune-cord-sycee-ingot-eastern-azure-dragon.jpg" alt="fortune cord sycee ingot eastern azure dragon line art, sycee ingot star coin ceiling motif">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/eastern-azure-dragon/round-coin-yuanbao-eastern-azure-dragon/fortune-cord-yuanbao-eastern-azure-dragon-2.jpg" alt="fortune cord yuanbao eastern azure dragon 2 line art, yuanbao celestial guardian pattern">
-</div>
+
