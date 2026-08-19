@@ -4,11 +4,14 @@
     <meta charset="UTF-8">
     <title>{{ page.title | default: site.title }}</title>
     <style>
-        /* All images inside .container automatically display 4 per row */
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1.5rem;
+        }
         .container img {
-            display: inline-block;
-            width: 23%;
-            margin: 0.5rem 1%;
+            width: 28%;
             cursor: pointer;
             transition: transform 0.2s ease;
             border-radius: 4px;
@@ -17,7 +20,6 @@
             transform: scale(1.05);
         }
 
-        /* Lightbox modal */
         .modal {
             display: none;
             position: fixed;
@@ -55,14 +57,12 @@
         {{ content }}
     </div>
 
-    <!-- Lightbox modal -->
     <div class="modal" id="imageModal" onclick="closeModal()">
         <span class="modal-close">&times;</span>
         <img id="modalImage" src="" alt="Preview">
     </div>
 
     <script>
-        // Click any image inside .container to open lightbox
         document.querySelectorAll('.container img').forEach(img => {
             img.addEventListener('click', function() {
                 document.getElementById('modalImage').src = this.src;
@@ -73,7 +73,6 @@
         function closeModal() {
             document.getElementById('imageModal').style.display = 'none';
         }
-        // Close modal with ESC key
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') closeModal();
         });
