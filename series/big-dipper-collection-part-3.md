@@ -1,13 +1,11 @@
 # Big Dipper Collection (Part 3) – Furry Beast Coins
 
 This part continues the furry beast series with front, back, and side views of two-eared cats in various tail styles — coiled, braided, fluffy, and straight.
-
 Series Details:
 - Coin types: Two-eared beast
 - Tail styles: Braided · Coiled · Fluffy · Straight · Thin
 - Poses: Sitting · Squatting
 - Views: Front · Back
-
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-2-ear-coins-2-feline-pocket-thin-tail.jpg" alt="fortune cord big dipper 2 ear coins 2 feline pocket thin tail line art, furry star coin ceiling pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.0-big-dipper-seven-pets/fortune-cord-big-dipper-2-ear-coins-feline-cord-tail.jpg" alt="fortune cord big dipper 2 ear coins feline cord tail line art, big dipper pet coin constellation art">
