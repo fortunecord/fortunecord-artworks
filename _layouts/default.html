@@ -1,87 +1,82 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title | default: site.title }}</title>
-    <style>
-        /* Gallery grid layout: 4 images per row */
-        .gallery-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 1rem;
-            padding: 1rem 0;
-        }
-        .gallery-grid img {
-            width: 100%;
-            height: auto;
-            cursor: pointer;
-            transition: transform 0.2s ease;
-            border-radius: 4px;
-        }
-        .gallery-grid img:hover {
-            transform: scale(1.05);
-        }
+    <meta charset="UTF-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <style>
+        /* 所有在 .container 里的 img 自动变成每行4张 */
+        .container img {
+            display: inline-block;
+            width: 23%;
+            margin: 0.5rem 1%;
+            cursor: pointer;
+            transition: transform 0.2s ease;
+            border-radius: 4px;
+        }
+        .container img:hover {
+            transform: scale(1.05);
+        }
 
-        /* Lightbox modal */
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0,0,0,0.85);
-            z-index: 9999;
-            align-items: center;
-            justify-content: center;
-            padding: 2rem;
-        }
-        .modal img {
-            max-width: 90%;
-            max-height: 90%;
-            border-radius: 8px;
-        }
-        .modal-close {
-            position: absolute;
-            top: 1.5rem;
-            right: 2.5rem;
-            font-size: 2.5rem;
-            color: white;
-            cursor: pointer;
-            background: none;
-            border: none;
-        }
-    </style>
+        /* Lightbox modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.85);
+            z-index: 9999;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        .modal img {
+            max-width: 90%;
+            max-height: 90%;
+            border-radius: 8px;
+        }
+        .modal-close {
+            position: absolute;
+            top: 1.5rem;
+            right: 2.5rem;
+            font-size: 2.5rem;
+            color: white;
+            cursor: pointer;
+            background: none;
+            border: none;
+        }
+    </style>
 </head>
 <body>
-    {% include nav.html %}
-   
-    <div class="container">
-        {{ content }}
-    </div>
+    {% include nav.html %}
 
-    <!-- Lightbox modal -->
-    <div class="modal" id="imageModal" onclick="closeModal()">
-        <span class="modal-close">&times;</span>
-        <img id="modalImage" src="" alt="Preview">
-    </div>
+    <div class="container">
+        {{ content }}
+    </div>
 
-    <script>
-        // Click on any gallery image to open modal
-        document.querySelectorAll('.gallery-grid img').forEach(img => {
-            img.addEventListener('click', function() {
-                document.getElementById('modalImage').src = this.src;
-                document.getElementById('imageModal').style.display = 'flex';
-            });
-        });
+    <!-- Lightbox modal -->
+    <div class="modal" id="imageModal" onclick="closeModal()">
+        <span class="modal-close">&times;</span>
+        <img id="modalImage" src="" alt="Preview">
+    </div>
 
-        function closeModal() {
-            document.getElementById('imageModal').style.display = 'none';
-        }
-        // Close modal with ESC key
-        document.addEventListener('keydown', function(e) {
-            if (e.key === 'Escape') closeModal();
-        });
-    </script>
+    <script>
+        // 点击 .container 里的任意图片弹窗放大
+        document.querySelectorAll('.container img').forEach(img => {
+            img.addEventListener('click', function() {
+                document.getElementById('modalImage').src = this.src;
+                document.getElementById('imageModal').style.display = 'flex';
+            });
+        });
+
+        function closeModal() {
+            document.getElementById('imageModal').style.display = 'none';
+        }
+        // ESC 键关闭弹窗
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') closeModal();
+        });
+    </script>
 </body>
 </html>
