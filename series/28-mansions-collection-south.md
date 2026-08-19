@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 28 Mansions Collection - Southern Vermilion bird - Star Coin Art
 
 Immerse in **Southern Vermilion bird star coin ceiling art** – the 28 lunar mansions, 28 Mansions: "28 lunar lodges", celestial power of the south. Designed to fit **starlight headliners**, **architectural ceilings**, and **luxury cosmic decor**.
