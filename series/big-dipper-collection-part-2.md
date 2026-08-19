@@ -6,13 +6,12 @@ These are black-and-white line drawings, featuring front, back, and side views o
 
 Perfect for starlight headliners, car roof designs, architectural ceilings, fabric prints, and home decor.
 
----
-
 ### Series Details
 - Coin types: Two-eared beast · Single-eared beast · Earless beast
 - Tail styles: Coiled cord tail · Fluffy tail · Braided tail · Straight tail
 - Poses: Sitting · Crouching
 - Views: Front · Back · Side
+
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.1-two-eared-beast-front-back/coin-cord-big-dipper-7-coins-back-furry-braid-tail-2.jpg" alt="coin cord big dipper 7 coins back furry braid tail 2 line art, Star Coin Ceiling pattern">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/6-big-dipper-collection/3-fortune-cord-big-dipper-seven-pets-v1.0-1.8/v1.1-two-eared-beast-front-back/coin-cord-big-dipper-7-coins-back-furry-braid-tail.jpg" alt="coin cord big dipper 7 coins back furry braid tail line art, Star Coin Ceiling pattern">
