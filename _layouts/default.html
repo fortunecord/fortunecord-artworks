@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>{{ page.title | default: site.title }}</title>
     <style>
-        /* 所有在 .container 里的 img 自动变成每行4张 */
+        /* All images inside .container automatically display 4 per row */
         .container img {
             display: inline-block;
             width: 23%;
@@ -62,7 +62,7 @@
     </div>
 
     <script>
-        // 点击 .container 里的任意图片弹窗放大
+        // Click any image inside .container to open lightbox
         document.querySelectorAll('.container img').forEach(img => {
             img.addEventListener('click', function() {
                 document.getElementById('modalImage').src = this.src;
@@ -73,7 +73,7 @@
         function closeModal() {
             document.getElementById('imageModal').style.display = 'none';
         }
-        // ESC 键关闭弹窗
+        // Close modal with ESC key
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') closeModal();
         });
