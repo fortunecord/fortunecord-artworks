@@ -6,7 +6,6 @@ layout: default
 
 Experience **Western White Tiger star coin ceiling art** – the 28 lunar mansions, celestial power of the west. Compatible with **starlight headliners**, **architectural ceilings**, and **luxury cosmic decor**.
 
-<div class="gallery-grid">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/western-white-tiger/fruit-star-coin-28-mansions-western-white-tiger-v1.0/fortune-cord-apple-fruit-star-coin-1-western-white-tiger.jpg" alt="fortune cord apple fruit star coin 1 western white tiger line art, western white tiger star coin pattern">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/western-white-tiger/fruit-star-coin-28-mansions-western-white-tiger-v1.0/fortune-cord-apple-fruit-star-coin-2-western-white-tiger.jpg" alt="fortune cord apple fruit star coin 2 western white tiger line art, celestial guardian white tiger fruit star design">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/western-white-tiger/fruit-star-coin-28-mansions-western-white-tiger-v1.0/fortune-cord-almond-fruit-star-coin-1-western-white-tiger.jpg" alt="fortune cord almond fruit star coin 1 western white tiger line art, almond lunar mansion ceiling art">
@@ -82,4 +81,4 @@ Experience **Western White Tiger star coin ceiling art** – the 28 lunar mansio
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/fortune-cord-constellation-v1.0-four-directions-collection/fortune-cord-28-mansions-collection.jpg" alt="fortune cord 28 mansions collection line art, four directions lunar mansion star pattern">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/fortune-cord-constellation-v1.0-four-directions-collection/fortune-cord-line-threaded-coin-28-mansions-collection-1.jpg" alt="fortune cord line threaded coin 28 mansions collection 1 line art, celestial four directions ceiling art">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/fortune-cord-constellation-v1.0-four-directions-collection/fortune-cord-line-threaded-coin-28-mansions-collection-2.jpg" alt="fortune cord line threaded coin 28 mansions collection 2 line art, star coin four directions design">
-</div>
+
