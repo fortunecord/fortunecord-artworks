@@ -2,11 +2,7 @@
 
 A visual exploration of digits 0 through 9 using the core language of cord and coin. This collection demonstrates the adaptability of the Fortune Cord system beyond astral symbols — each digit is constructed through different configurations of cord, thread, and coin.
 
-**Included variations:** 
-Single thread · single coin, Single thread · multi coins, Single thread · linked single coin,
-Single thread · linked double coins, Single cord · single coin, Single cord · multi coins,
-Single cord · linked double coins, Double threads · single coin, Double threads · double coins,
-Multi-coin array.
+**Included variations:** Single thread · single coin, Single thread · multi coins, Single thread · linked single coin, Single thread · linked double coins, Single cord · single coin, Single cord · multi coins, Single cord · linked double coins, Double threads · single coin, Double threads · double coins, Multi-coin array.
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/11-digits/single-threaded-single-coin-0-9a.jpg" alt="single threaded single coin digit 0 to 9 line art, Fortune Cord number design">
 
