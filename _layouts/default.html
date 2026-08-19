@@ -1,25 +1,73 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: "FortuneCord Artworks" }}</title>
     <style>
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 1.5rem;
-        }
-        .container img {
-            width: 28%;
-            cursor: pointer;
-            transition: transform 0.2s ease;
-            border-radius: 4px;
-        }
-        .container img:hover {
-            transform: scale(1.05);
+        /* Global reset and base */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+            line-height: 1.6;
+            color: #222;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px 20px;
+            background: #fafafa;
         }
 
+        /* Navigation */
+        nav {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        nav a {
+            margin: 0 12px;
+            text-decoration: none;
+            color: #0055cc;
+            font-weight: 500;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* Headings */
+        h1, h2, h3 {
+            text-align: center;
+            color: #111;
+        }
+
+        /* Container for all content */
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        /* All images inside .container: 3 per row, centered, with gaps */
+        .container img {
+            display: inline-block;
+            width: 30%;
+            margin: 0.5rem 1.2%;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            vertical-align: top;
+        }
+        .container img:hover {
+            transform: scale(1.04);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+        }
+
+        /* Text paragraphs inside .container */
+        .container p {
+            max-width: 800px;
+            margin: 1.2rem auto;
+            text-align: left;
+            padding: 0 10px;
+        }
+
+        /* Lightbox modal */
         .modal {
             display: none;
             position: fixed;
@@ -27,55 +75,109 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0,0,0,0.85);
+            background: rgba(0,0,0,0.88);
             z-index: 9999;
             align-items: center;
             justify-content: center;
             padding: 2rem;
         }
         .modal img {
-            max-width: 90%;
-            max-height: 90%;
+            max-width: 92%;
+            max-height: 92%;
             border-radius: 8px;
+            box-shadow: 0 8px 40px rgba(0,0,0,0.5);
         }
         .modal-close {
             position: absolute;
             top: 1.5rem;
             right: 2.5rem;
-            font-size: 2.5rem;
-            color: white;
+            font-size: 2.8rem;
+            color: #fff;
             cursor: pointer;
             background: none;
             border: none;
+            line-height: 1;
+        }
+        .modal-close:hover {
+            opacity: 0.7;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+            color: #888;
+            font-size: 0.9rem;
+        }
+        footer a {
+            color: #0055cc;
+            text-decoration: none;
         }
     </style>
 </head>
 <body>
-    {% include nav.html %}
 
+    <!-- Navigation -->
+    <nav>
+        <a href="https://fortunecord.com/">Home</a>
+        <a href="https://fortunecord.com/fortunecord-artworks/">Gallery</a>
+    </nav>
+
+    <!-- Main content -->
     <div class="container">
         {{ content }}
     </div>
 
-    <div class="modal" id="imageModal" onclick="closeModal()">
-        <span class="modal-close">&times;</span>
+    <!-- Lightbox modal -->
+    <div class="modal" id="imageModal">
+        <span class="modal-close" id="modalCloseBtn">&times;</span>
         <img id="modalImage" src="" alt="Preview">
     </div>
 
+    <!-- Footer -->
+    <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} FortuneCord. All rights reserved.</p>
+    </footer>
+
     <script>
-        document.querySelectorAll('.container img').forEach(img => {
+        // Open lightbox when any image inside .container is clicked
+        document.querySelectorAll('.container img').forEach(function(img) {
             img.addEventListener('click', function() {
-                document.getElementById('modalImage').src = this.src;
-                document.getElementById('imageModal').style.display = 'flex';
+                var modal = document.getElementById('imageModal');
+                var modalImg = document.getElementById('modalImage');
+                modalImg.src = this.src;
+                modalImg.alt = this.alt || 'Preview';
+                modal.style.display = 'flex';
             });
         });
 
+        // Close lightbox functions
         function closeModal() {
             document.getElementById('imageModal').style.display = 'none';
         }
+
+        // Click on the modal background to close
+        document.getElementById('imageModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+
+        // Click the X button to close
+        document.getElementById('modalCloseBtn').addEventListener('click', function(e) {
+            e.stopPropagation();
+            closeModal();
+        });
+
+        // Press ESC key to close
         document.addEventListener('keydown', function(e) {
-            if (e.key === 'Escape') closeModal();
+            if (e.key === 'Escape') {
+                closeModal();
+            }
         });
     </script>
+
 </body>
 </html>
