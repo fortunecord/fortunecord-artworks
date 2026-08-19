@@ -6,7 +6,7 @@ layout: default
 
 Explore **Northern Black Tortoise star coin ceiling art** – the 28 lunar mansions, mysterious guardian of the north. Intended for **starlight headliners**, **architectural ceilings**, and **cosmic-themed interiors**.
 
-<div class="gallery-grid">
+
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/northern-black-tortoise/fruit-star-coin-northern-black-tortoise-v1.0/fortune-cord-apple-fruit-star-coin-1-northern-black-tortoise.jpg" alt="fortune cord apple fruit star coin 1 northern black tortoise line art, apple fruit star ceiling pattern">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/northern-black-tortoise/fruit-star-coin-northern-black-tortoise-v1.0/fortune-cord-apple-fruit-star-coin-2-northern-black-tortoise.jpg" alt="fortune cord apple fruit star coin 2 northern black tortoise line art, northern guardian fruit star motif">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/northern-black-tortoise/fruit-star-coin-northern-black-tortoise-v1.0/fortune-cord-cantaloupe-fruit-star-coin-1-northern-black-tortoise.jpg" alt="fortune cord cantaloupe fruit star coin 1 northern black tortoise line art, cantaloupe lunar mansion design">
@@ -79,4 +79,4 @@ Explore **Northern Black Tortoise star coin ceiling art** – the 28 lunar mansi
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/northern-black-tortoise/round-coin-yuanbao-northern-black-tortoise/fortune-cord-round-coin-northern-black-tortoise.jpg" alt="fortune cord round coin northern black tortoise line art, round star coin northern guardian design">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/northern-black-tortoise/round-coin-yuanbao-northern-black-tortoise/fortune-cord-round-hole-coin-northern-black-tortoise.jpg" alt="fortune cord round hole coin northern black tortoise line art, round hole lunar mansion artwork">
     <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/5-28-mansions-collection/northern-black-tortoise/round-coin-yuanbao-northern-black-tortoise/fortune-cord-single-ear-furry-star-coin-northern-black-tortoise.jpg" alt="fortune cord single ear furry star coin northern black tortoise line art, single ear furry star ceiling pattern">
-</div>
+
