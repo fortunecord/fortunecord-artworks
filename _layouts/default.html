@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | default: "FortuneCord Artworks" }}</title>
     <style>
-        /* Global reset and base */
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
             line-height: 1.6;
@@ -16,58 +15,39 @@
             background: #fafafa;
         }
 
-        /* Navigation */
-        nav {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        nav a {
-            margin: 0 12px;
-            text-decoration: none;
-            color: #0055cc;
-            font-weight: 500;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-
-        /* Headings */
-        h1, h2, h3 {
-            text-align: center;
-            color: #111;
-        }
-
-        /* Container for all content */
-        .container {
+        .markdown-body p {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            justify-content: center;
+            align-items: center;
+            margin: 20px auto;
             max-width: 1100px;
-            margin: 0 auto;
         }
 
-        /* All images inside .container: 3 per row, centered, with gaps */
-        .container img {
-            display: inline-block;
-            width: 30%;
-            margin: 0.5rem 1.2%;
-            cursor: pointer;
-            border-radius: 6px;
-            transition: transform 0.25s ease, box-shadow 0.25s ease;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-            vertical-align: top;
-        }
-        .container img:hover {
-            transform: scale(1.04);
-            box-shadow: 0 6px 18px rgba(0,0,0,0.12);
-        }
-
-        /* Text paragraphs inside .container */
-        .container p {
-            max-width: 800px;
-            margin: 1.2rem auto;
+        .markdown-body p:not(:has(img)) {
+            display: block;
             text-align: left;
-            padding: 0 10px;
+            max-width: 800px;
+            margin: 20px auto;
         }
 
-        /* Lightbox modal */
+        .markdown-body img {
+            width: 100%;
+            height: auto;
+            aspect-ratio: 1 / 1;
+            object-fit: cover;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .markdown-body img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+        }
+
         .modal {
             display: none;
             position: fixed;
@@ -85,7 +65,6 @@
             max-width: 92%;
             max-height: 92%;
             border-radius: 8px;
-            box-shadow: 0 8px 40px rgba(0,0,0,0.5);
         }
         .modal-close {
             position: absolute;
@@ -96,13 +75,8 @@
             cursor: pointer;
             background: none;
             border: none;
-            line-height: 1;
-        }
-        .modal-close:hover {
-            opacity: 0.7;
         }
 
-        /* Footer */
         footer {
             text-align: center;
             margin-top: 50px;
@@ -111,39 +85,27 @@
             color: #888;
             font-size: 0.9rem;
         }
-        footer a {
-            color: #0055cc;
-            text-decoration: none;
-        }
     </style>
 </head>
 <body>
 
-    <!-- Navigation -->
-    <nav>
-        <a href="https://fortunecord.com/">Home</a>
-        <a href="https://fortunecord.com/fortunecord-artworks/">Gallery</a>
-    </nav>
+    {% include nav.html %}
 
-    <!-- Main content -->
-    <div class="container">
+    <main class="markdown-body">
         {{ content }}
-    </div>
+    </main>
 
-    <!-- Lightbox modal -->
     <div class="modal" id="imageModal">
         <span class="modal-close" id="modalCloseBtn">&times;</span>
         <img id="modalImage" src="" alt="Preview">
     </div>
 
-    <!-- Footer -->
     <footer>
         <p>&copy; {{ site.time | date: '%Y' }} FortuneCord. All rights reserved.</p>
     </footer>
 
     <script>
-        // Open lightbox when any image inside .container is clicked
-        document.querySelectorAll('.container img').forEach(function(img) {
+        document.querySelectorAll('.markdown-body img').forEach(function(img) {
             img.addEventListener('click', function() {
                 var modal = document.getElementById('imageModal');
                 var modalImg = document.getElementById('modalImage');
@@ -153,29 +115,21 @@
             });
         });
 
-        // Close lightbox functions
         function closeModal() {
             document.getElementById('imageModal').style.display = 'none';
         }
 
-        // Click on the modal background to close
         document.getElementById('imageModal').addEventListener('click', function(e) {
-            if (e.target === this) {
-                closeModal();
-            }
+            if (e.target === this) closeModal();
         });
 
-        // Click the X button to close
         document.getElementById('modalCloseBtn').addEventListener('click', function(e) {
             e.stopPropagation();
             closeModal();
         });
 
-        // Press ESC key to close
         document.addEventListener('keydown', function(e) {
-            if (e.key === 'Escape') {
-                closeModal();
-            }
+            if (e.key === 'Escape') closeModal();
         });
     </script>
 
