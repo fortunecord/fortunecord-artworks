@@ -37,9 +37,12 @@
             padding: 2rem;
         }
         .modal img {
-            max-width: 90%;
-            max-height: 90%;
+            max-width: 95%;
+            max-height: 95%;
+            width: auto;
+            height: auto;
             border-radius: 8px;
+            object-fit: contain;
         }
         .modal-close {
             position: absolute;
@@ -67,10 +70,18 @@
     </div>
 
     <script>
-        // Click on any gallery image to open modal
+        // Click on any gallery image to open modal with full-resolution image
         document.querySelectorAll('.gallery-grid img').forEach(img => {
             img.addEventListener('click', function() {
-                document.getElementById('modalImage').src = this.src;
+                var modalImg = document.getElementById('modalImage');
+                var src = this.src;
+                // Add ?raw=true to load the original full-resolution image
+                if (src.indexOf('?raw=true') === -1) {
+                    src = src + '?raw=true';
+                }
+                modalImg.src = src;
+                modalImg.style.width = 'auto';
+                modalImg.style.height = 'auto';
                 document.getElementById('imageModal').style.display = 'flex';
             });
         });
