@@ -15,6 +15,7 @@
             background: #0a1128;
         }
 
+        /* ====== GRID LAYOUT: 3 columns, centered ====== */
         .markdown-body {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
@@ -22,12 +23,12 @@
             justify-items: center;
         }
 
-        /* Hide the paragraph wrapper but keep its content */
+        /* Hide <p> wrapper, keep its children */
         .markdown-body p {
             display: contents;
         }
 
-        /* Pure text paragraphs: span full width, not grid columns */
+        /* ====== TEXT: force left alignment, full width ====== */
         .markdown-body p:not(:has(img)) {
             display: block;
             grid-column: 1 / -1;
@@ -37,6 +38,34 @@
             padding: 0 10px;
         }
 
+        .markdown-body h1,
+        .markdown-body h2,
+        .markdown-body h3,
+        .markdown-body h4,
+        .markdown-body h5,
+        .markdown-body h6 {
+            color: #b8a310;
+            text-align: left;
+            width: 100%;
+            margin: 10px 0;
+            grid-column: 1 / -1;
+        }
+
+        .markdown-body ul,
+        .markdown-body ol,
+        .markdown-body blockquote,
+        .markdown-body pre,
+        .markdown-body table,
+        .markdown-body hr {
+            grid-column: 1 / -1;
+            text-align: left;
+        }
+
+        .markdown-body a {
+            color: #b8a310;
+        }
+
+        /* ====== IMAGE WRAPPER: aged paper background ====== */
         .img-wrapper {
             width: 100%;
             aspect-ratio: 1 / 1;
@@ -61,20 +90,7 @@
             mix-blend-mode: multiply;
         }
 
-        .markdown-body h1,
-        .markdown-body h2,
-        .markdown-body h3 {
-            color: #b8a310;
-            text-align: left;
-            width: 100%;
-            margin: 10px 0;
-            grid-column: 1 / -1;
-        }
-
-        .markdown-body a {
-            color: #b8a310;
-        }
-
+        /* ====== LIGHTBOX MODAL ====== */
         .modal {
             display: none;
             position: fixed;
@@ -104,6 +120,7 @@
             border: none;
         }
 
+        /* ====== FOOTER ====== */
         footer {
             text-align: center;
             margin-top: 50px;
@@ -136,7 +153,7 @@
     </footer>
 
     <script>
-        // Wrap each image inside .markdown-body with .img-wrapper
+        // Wrap each image with .img-wrapper
         document.querySelectorAll('.markdown-body img').forEach(function(img) {
             var wrapper = document.createElement('div');
             wrapper.className = 'img-wrapper';
