@@ -16,26 +16,34 @@
         }
 
         .markdown-body {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
             gap: 25px;
+            justify-items: center;
         }
 
-        .markdown-body img {
-            width: calc(33.333% - 20px);
-            height: auto;
+        .img-wrapper {
+            width: 100%;
             aspect-ratio: 1 / 1;
-            object-fit: cover;
+            background: #f4f0e6;
             border-radius: 8px;
+            overflow: hidden;
             box-shadow: 0 4px 12px rgba(0,0,0,0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             cursor: pointer;
         }
 
-        .markdown-body img:hover {
+        .img-wrapper:hover {
             transform: scale(1.05);
             box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+        }
+
+        .img-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            mix-blend-mode: multiply;
         }
 
         .markdown-body p:not(:has(img)) {
@@ -43,7 +51,7 @@
             display: block;
             text-align: left;
             max-width: 100%;
-            margin: 20px auto;
+            margin: 10px auto;
             padding: 0 10px;
         }
 
@@ -53,6 +61,7 @@
             color: #b8a310;
             text-align: left;
             width: 100%;
+            margin: 10px 0;
         }
 
         .markdown-body a {
@@ -120,13 +129,25 @@
     </footer>
 
     <script>
+        // Wrap each image in .markdown-body with .img-wrapper
         document.querySelectorAll('.markdown-body img').forEach(function(img) {
-            img.addEventListener('click', function() {
-                var modal = document.getElementById('imageModal');
-                var modalImg = document.getElementById('modalImage');
-                modalImg.src = this.src;
-                modalImg.alt = this.alt || 'Preview';
-                modal.style.display = 'flex';
+            var wrapper = document.createElement('div');
+            wrapper.className = 'img-wrapper';
+            img.parentNode.insertBefore(wrapper, img);
+            wrapper.appendChild(img);
+        });
+
+        // Click handler for image modal
+        document.querySelectorAll('.img-wrapper').forEach(function(wrapper) {
+            wrapper.addEventListener('click', function() {
+                var img = this.querySelector('img');
+                if (img) {
+                    var modal = document.getElementById('imageModal');
+                    var modalImg = document.getElementById('modalImage');
+                    modalImg.src = img.src;
+                    modalImg.alt = img.alt || 'Preview';
+                    modal.style.display = 'flex';
+                }
             });
         });
 
