@@ -15,16 +15,40 @@
             background: #0a1128;
         }
 
+        .markdown-body p,
+        .markdown-body h1,
+        .markdown-body h2,
+        .markdown-body h3,
+        .markdown-body li {
+            text-align: left;
+            width: 100%;
+        }
+
+        .markdown-body h1,
+        .markdown-body h2,
+        .markdown-body h3 {
+            color: #b8a310;
+        }
+
+        .markdown-body a {
+            color: #b8a310;
+        }
+
+        /* ---- HOME / README PAGE (Keep original layout) ---- */
+        .markdown-body img {
+            background-color: #f4f0e6;
+            mix-blend-mode: multiply;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+
+        /* ---- SERIES PAGES OVERRIDE (Only when URL contains /series/) ---- */
+        {% if page.url contains '/series/' %}
         .markdown-body {
             display: flex;
             flex-wrap: wrap;
+            justify-content: center;
             gap: 25px;
-        }
-
-        .markdown-body p {
-            width: 100%;
-            margin: 10px 0;
-            text-align: left;
         }
 
         .markdown-body img {
@@ -32,12 +56,12 @@
             height: auto;
             aspect-ratio: 1 / 1;
             object-fit: cover;
+            background-color: #f4f0e6;
+            mix-blend-mode: multiply;
             border-radius: 8px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             cursor: pointer;
-            background: #f4f0e6;
-            mix-blend-mode: multiply;
         }
 
         .markdown-body img:hover {
@@ -45,21 +69,12 @@
             box-shadow: 0 8px 24px rgba(0,0,0,0.5);
         }
 
-        .markdown-body h1,
-        .markdown-body h2,
-        .markdown-body h3,
-        .markdown-body h4,
-        .markdown-body h5,
-        .markdown-body h6 {
-            color: #b8a310;
-            text-align: left;
-            width: 100%;
+        .markdown-body p:not(:has(img)) {
+            display: block;
             margin: 10px 0;
+            padding: 0;
         }
-
-        .markdown-body a {
-            color: #b8a310;
-        }
+        {% endif %}
 
         .modal {
             display: none;
@@ -78,6 +93,7 @@
             max-width: 92%;
             max-height: 92%;
             border-radius: 8px;
+            background-color: #f4f0e6;
         }
         .modal-close {
             position: absolute;
