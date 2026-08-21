@@ -1,9 +1,9 @@
 <style>
   .top-nav {
-    background: #f8f8f8;
+    background: #0a1128;
     padding: 8px 12px;
     margin-bottom: 20px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #2a2a2a;
     font-size: 14px;
     font-family: sans-serif;
     display: flex;
@@ -17,35 +17,43 @@
   }
   .nav-item a {
     text-decoration: none;
-    color: #333;
+    color: #ddd;
     padding: 6px 10px;
     display: inline-block;
+    transition: color 0.2s;
+  }
+  .nav-item a:hover {
+    color: #b8a310;
   }
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: #1a1a2a;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
     z-index: 1;
-    border: 1px solid #ddd;
+    border: 1px solid #333;
   }
   .dropdown-content a {
-    color: black;
+    color: #ddd;
     padding: 8px 12px;
     text-decoration: none;
     display: block;
     white-space: nowrap;
   }
   .dropdown-content a:hover {
-    background-color: #eaeaea;
+    background-color: #2a2a3a;
+    color: #b8a310;
   }
   .nav-item:hover .dropdown-content {
     display: block;
   }
-  .nav-item a:hover {
-    background-color: #e0e0e0;
-    border-radius: 4px;
+  .top-nav strong {
+    color: #b8a310;
+  }
+  .top-nav .sep {
+    color: #b8a310;
+    opacity: 0.4;
   }
   @media (max-width: 768px) {
     .top-nav { flex-direction: column; align-items: flex-start; }
@@ -54,8 +62,9 @@
 </style>
 
 <div class="top-nav">
-  <strong style="color: #b8a310;">📁 GALLERY INDEX:</strong>
-  <a href="https://fortunecord.com/">Home</a> |
+  <strong>📁 GALLERY INDEX:</strong>
+  <a href="https://fortunecord.com/">Home</a>
+  <span class="sep">|</span>
   <a href="/fortunecord-artworks/">Gallery</a>
 
   <!-- 1. Zodiac Signs (12) -->
@@ -77,7 +86,7 @@
     </div>
   </div>
 
-  <!-- 2. Big Dipper (7 parts) -->
+  <!-- 2. Big Dipper (9 parts) -->
   <div class="nav-item">
     <a href="#">Big Dipper</a>
     <div class="dropdown-content">
@@ -133,7 +142,7 @@
     <a href="/fortunecord-artworks/series/bagua-collection">Bagua</a>
   </div>
 
-  <!-- 9. Taiji (2 parts) -->
+  <!-- 9. Taiji (6 parts) -->
   <div class="nav-item">
     <a href="#">Taiji</a>
     <div class="dropdown-content">
@@ -142,9 +151,7 @@
       <a href="/fortunecord-artworks/series/taiji-collection-part-3">Part 3</a>
       <a href="/fortunecord-artworks/series/taiji-collection-part-4">Part 4</a>
       <a href="/fortunecord-artworks/series/taiji-collection-part-5">Part 5</a>      
-      <a href="/fortunecord-artworks/series/taiji-collection-part-6">Part 6</a>    
-      <a href="/fortunecord-artworks/series/taiji-collection-part-7">Part 7</a>  
-      <a href="/fortunecord-artworks/series/taiji-collection-part-8">Part 8</a>  
+      <a href="/fortunecord-artworks/series/taiji-collection-part-6">Part 6</a>      
     </div>
   </div> 
   
@@ -153,7 +160,7 @@
     <a href="/fortunecord-artworks/series/stellar-radiance">Stellar Radiance</a>
   </div>
 
-    <!-- 11. Digits -->
+  <!-- 11. Digits -->
   <div class="nav-item">
     <a href="/fortunecord-artworks/series/digits">Digits</a>
   </div>
