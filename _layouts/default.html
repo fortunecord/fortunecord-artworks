@@ -20,25 +20,31 @@
             flex-wrap: wrap;
             justify-content: center;
             gap: 25px;
-            background-color: #f4f0e6;
         }
 
-        .markdown-body img {
+        .markdown-body .img-wrapper {
             width: calc(33.333% - 20px);
-            height: auto;
             aspect-ratio: 1 / 1;
-            object-fit: cover;
+            background: #f4f0e6;
             border-radius: 8px;
+            overflow: hidden;
             box-shadow: 0 4px 12px rgba(0,0,0,0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             cursor: pointer;
-            mix-blend-mode: multiply;
-            filter: none;
         }
 
-        .markdown-body img:hover {
+        .markdown-body .img-wrapper:hover {
             transform: scale(1.05);
             box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+        }
+
+        .markdown-body .img-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            mix-blend-mode: multiply;
+            filter: none;
         }
 
         .markdown-body p:not(:has(img)) {
@@ -124,12 +130,15 @@
     </footer>
 
     <script>
-        document.querySelectorAll('.markdown-body img').forEach(function(img) {
-            img.addEventListener('click', function() {
+        document.querySelectorAll('.img-wrapper').forEach(function(wrapper) {
+            wrapper.addEventListener('click', function() {
+                var img = this.querySelector('img');
                 var modal = document.getElementById('imageModal');
                 var modalImg = document.getElementById('modalImage');
-                modalImg.src = this.src;
-                modalImg.alt = this.alt || 'Preview';
+                if (img) {
+                    modalImg.src = img.src;
+                    modalImg.alt = img.alt || 'Preview';
+                }
                 modal.style.display = 'flex';
             });
         });
