@@ -34,24 +34,25 @@
             color: #b8a310;
         }
 
-        /* ---- HOME / README PAGE ---- */
+        /* ---- HOME / README PAGE: Keep original layout ---- */
         .markdown-body img {
             background: #f4f0e6;
             border-radius: 8px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.3);
         }
 
-        /* ---- SERIES PAGES ---- */
+        /* ---- SERIES PAGES: Grid layout, 3 columns, centered ---- */
         {% if page.url contains '/series/' %}
         .markdown-body {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
             gap: 25px;
+            justify-items: center;
         }
 
+        /* ---- Images fill their grid cell, with aged paper background ---- */
         .markdown-body img {
-            width: calc(33.333% - 20px);
+            width: 100%;
             height: auto;
             aspect-ratio: 1 / 1;
             object-fit: cover;
@@ -67,7 +68,9 @@
             box-shadow: 0 8px 24px rgba(0,0,0,0.5);
         }
 
+        /* ---- Pure text paragraphs: span full width ---- */
         .markdown-body p:not(:has(img)) {
+            grid-column: 1 / -1;
             display: block;
             margin: 10px 0;
             padding: 0;
