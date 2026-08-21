@@ -31,6 +31,7 @@
             box-shadow: 0 4px 12px rgba(0,0,0,0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             cursor: pointer;
+            filter: sepia(0.5) contrast(0.95) brightness(0.95);
         }
 
         .markdown-body img:hover {
@@ -50,6 +51,12 @@
         .markdown-body h1,
         .markdown-body h2,
         .markdown-body h3 {
+            color: #b8a310;
+            text-align: left;
+            width: 100%;
+        }
+
+        .markdown-body a {
             color: #b8a310;
         }
 
@@ -93,11 +100,6 @@
         footer a {
             color: #b8a310;
             text-decoration: none;
-        }
-
-        /* 导航栏内链接样式（如果导航栏有链接） */
-        .markdown-body a {
-            color: #b8a310;
         }
     </style>
 </head>
