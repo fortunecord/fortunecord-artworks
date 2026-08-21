@@ -34,15 +34,14 @@
             color: #b8a310;
         }
 
-        /* ---- HOME / README PAGE (Keep original layout) ---- */
+        /* ---- HOME / README PAGE ---- */
         .markdown-body img {
-            background-color: #f4f0e6;
-            mix-blend-mode: multiply;
+            background: #f4f0e6;
             border-radius: 8px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.3);
         }
 
-        /* ---- SERIES PAGES OVERRIDE (Only when URL contains /series/) ---- */
+        /* ---- SERIES PAGES ---- */
         {% if page.url contains '/series/' %}
         .markdown-body {
             display: flex;
@@ -56,8 +55,7 @@
             height: auto;
             aspect-ratio: 1 / 1;
             object-fit: cover;
-            background-color: #f4f0e6;
-            mix-blend-mode: multiply;
+            background: #f4f0e6;
             border-radius: 8px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -93,7 +91,7 @@
             max-width: 92%;
             max-height: 92%;
             border-radius: 8px;
-            background-color: #f4f0e6;
+            background: #f4f0e6;
         }
         .modal-close {
             position: absolute;
