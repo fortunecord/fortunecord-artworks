@@ -1,4 +1,4 @@
-# Fortune-Craft (摇钱术)
+# Fortune-Craft (搖錢術)
 
 This piece reimagines the traditional money tree through the Fortune Cord visual language. Instead of conventional round coins or sycee ingots, the "leaves" are formed by variant coin motifs: floral coins, fruit coins, furry coins, and gemstone coins. The branches are drawn with cords, threads, or chains, connecting each coin into a tree-like topology.
 
