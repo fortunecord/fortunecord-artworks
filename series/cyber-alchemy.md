@@ -1,6 +1,16 @@
 # Cyber Alchemy Collection – Star Coin Ceiling Art
 
-Cyber Alchemy introduces the **Cyber Coin**—a coin form fused with circuit board motifs, pads, vias, and traces—to reinterpret Taiji, Bagua, Hetu, Luoshu, 28 Mansions, zodiac constellations, and other celestial patterns. All lines are decorative artistic elements, not real circuit designs. Suitable for **starlight headliners**, **building ceilings**, **luxury interior design**, laser engraving, light installations, and night tourism.
+Cyber Alchemy introduces the **Cyber Coin**—a coin form fused with circuit board motifs, pads, vias, and traces—to reinterpret Taiji, Bagua, Hetu, Luoshu, 28 Mansions, zodiac constellations, and other celestial patterns. All lines are decorative artistic elements, not real circuit designs. 
+
+**Cyber Coin vs. Base Coin Forms**
+
+a. **Form Differences:** In Cyber Coins, the coin hole and outer rim may have openings, notches, or interface points where traces connect or pass through, serving as channels for circuit traces to enter and exit the coin body. The previous coin holes and outer rims are mostly closed.
+
+b. **Evolutionary Origin:** Cyber Coins are circuitized variants of base coin forms. Base coin forms include: yuanbao (ingot), square-hole round coin, four-notch hole coin, four-protrusion hole coin, floral perforation coin, round-hole coin, heart-shaped coin, no-hole coin, floral coin, fruit coin, gemstone coin, furry coin, etc.
+
+Suitable for **starlight headliners**, **building ceilings**, **luxury interior design**, laser engraving, light installations, and night tourism.
+
+
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-28-mansions-east-azure-dragon.png" alt="cyber alchemy coin 28 mansions east azure dragon line art, circuit star map for car starlight headliner and architectural ceiling">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-28-mansions-north-black-tortoise.png" alt="cyber alchemy coin 28 mansions north black tortoise line art, celestial ceiling design for luxury interior and laser engraving">
