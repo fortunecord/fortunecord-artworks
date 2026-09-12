@@ -1,4 +1,4 @@
-# Cyber Alchemy Collection – Star Coin Ceiling Art
+# Cyber Alchemy Collection
 
 Cyber Alchemy introduces the **Cyber Coin**—a coin form fused with circuit board motifs, pads, vias, and traces—to reinterpret Taiji, Bagua, Hetu, Luoshu, 28 Mansions, zodiac constellations, and other celestial patterns. All lines are decorative artistic elements, not real circuit designs. 
 
