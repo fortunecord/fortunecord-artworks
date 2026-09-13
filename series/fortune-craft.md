@@ -8,3 +8,5 @@ This piece reimagines the traditional money tree through the Fortune Cord visual
 - Format: Tree-like prosperity motif
 
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/12-fortune-craft/money-tree-multi-variant-coins.jpg" alt="fortune craft money tree with floral, fruit, furry, gemstone coin leaves, connected by cord or chain — Fortune-Craft prosperity motif line art">
+
+<img width="700" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-money-tree.png" alt="fortune craft money tree with floral, fruit, furry, gemstone, cyber alchemy coin leaves, connected by cord or chain — Fortune-Craft prosperity motif pattern">
