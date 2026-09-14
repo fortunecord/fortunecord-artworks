@@ -182,11 +182,13 @@ Digits 0–9 in cord and coin. <br>
 
 ### [Fortune Craft](series/fortune-craft.md)
 Money-tree. <br>
-<img src="https://fortunecord.github.io/fortunecord-artworks/12-fortune-craft/money-tree-multi-variant-coins.jpg" width="380" alt="fortune craft money tree variant coins line art, fortune-craft prosperity motif design">
+<img src="https://fortunecord.github.io/fortunecord-artworks/12-fortune-craft/cyber-alchemy-coin-money-tree.png" width="380" alt="fortune craft money tree variant coins line art, fortune-craft prosperity motif design">
 
 ### [Cyber Alchemy](series/cyber-alchemy.md)
 Circuit board coin motifs — pads, vias, and traces reinterpreting numerical and celestial pattern layouts. <br>
-<img src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-money-tree.png" width="380" alt="cyber alchemy coin big dipper line art, circuit star map for car starlight headliner and architectural ceiling">
+<img src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-little-dipper-2.png" width="380" alt="cyber alchemy coin little dipper 2 line art, celestial pattern for architectural ceiling and light installation">
+
+
 
 *The Map of Wealth, Written in the Stars.*
 
