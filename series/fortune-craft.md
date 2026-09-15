@@ -1,9 +1,9 @@
-# Fortune-Craft (搖錢術)
+# Fortune-Craft (Coin Tree)
 
-This piece reimagines the traditional money tree through the Fortune Cord visual language. Instead of conventional round coins or sycee ingots, the "leaves" are formed by variant coin motifs: floral coins, fruit coins, furry coins, and gemstone coins. The branches are drawn with cords, threads, or chains, connecting each coin into a tree-like topology.
+This piece reimagines the traditional coin tree through the Fortune Cord visual language. Instead of conventional round coins or sycee ingots, the "leaves" are formed by variant coin motifs: floral coins, fruit coins, furry coins, gemstone and cyber coins. The branches are drawn with cords, threads, or chains, connecting each coin into a tree-like topology. 
 
 **Key elements:**
-- Coin types: Floral · Fruit · Furry · Gemstone
+- Coin types: Floral · Fruit · Furry · Gemstone · Cyber
 - Connection: Cord · Thread · Chain
 - Format: Tree-like prosperity motif
 
