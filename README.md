@@ -4,9 +4,9 @@
 # FortuneCord Artworks – Star Coin Ceiling Art
 
 This repository contains original line art from the **Star Coin** series, based on the **FORTUNE CORD visual system**: a cord threading a coin.  
-It reimagines constellations and cultural symbols – Big Dipper, 12 Zodiac Signs, Constellations, Asterisms, Little Dipper, Orion, Southern Cross, 28 Mansions, Taiji, Bagua, and more – through coin motifs (floral, fruit, furry, gem) that replace star points, all connected by the cord.
+It reimagines constellations and cultural symbols – Big Dipper, 12 Zodiac Signs, Constellations, Asterisms, Little Dipper, Orion, Southern Cross, 28 Mansions, Taiji, Bagua, and more – through coin motifs (floral, fruit, furry, gem, cyber) that replace star points, all connected by the cord.
 
-This visual system establishes an expression system for star image interpretation based on the dynamic arrangement of nodes and paths.
+This visual system establishes an expression system for star image representation based on the dynamic arrangement of nodes and paths.
 
 Potential Applications：   
 Industrial Design: Automotive interiors, ceiling patterns.  
@@ -119,8 +119,8 @@ Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line.<br>
 <img src="https://fortunecord.github.io/fortunecord-artworks/7-little-dipper-collection/3-flower-star-coin-ursa-minor/fortune-cord-little-dipper-7-plum-blossom-flower-star-coin-2.jpg" width="300" alt="Little Dipper Plum Blossom Flower Star Coin Star Chart Connection Line - ceiling pattern for hotel">
 
 ### [Hetu Luoshu Collection](series/hetu-luoshu-collection.md)
-Hetu Luoshu Wealth Numerical Astrology.<br>
-<img src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-taiji-hetu-2.jpg" width="320" alt="Hetu Luoshu Wealth Numerical Astrology pattern - for blockchain art, NFT, and metaverse applications">
+Hetu Luoshu Numerical Order Pattern.<br>
+<img src="https://fortunecord.github.io/fortunecord-artworks/3-hetu-luoshu-collection/1-fortune-cord-round-coin-hetu-luoshu-v1.0/fortune-cord-coin-taiji-hetu-2.jpg" width="320" alt="Hetu Luoshu numerical order pattern - for blockchain art, NFT, and metaverse applications">
 
 ### [Taiji Collection - Fortune Cord Taiji](series/taiji-collection.md)
 Coin cord Taiji.<br>
@@ -181,8 +181,8 @@ Digits 0–9 in cord and coin. <br>
 <img src="https://fortunecord.github.io/fortunecord-artworks/11-digits/double-threaded-single-coin-0-9a.jpg" width="380" alt="double threaded single coin digit line art, cord and coin numeral system">
 
 ### [Fortune Craft](series/fortune-craft.md)
-Money-tree. <br>
-<img src="https://fortunecord.github.io/fortunecord-artworks/12-fortune-craft/cyber-alchemy-coin-money-tree.png" width="380" alt="fortune craft money tree variant coins line art, fortune-craft prosperity motif design">
+Coin-tree. <br>
+<img src="https://fortunecord.github.io/fortunecord-artworks/12-fortune-craft/cyber-alchemy-coin-money-tree.png" width="380" alt="fortune craft coin tree variant coins line art, coin and cord decorative motif">
 
 ### [Cyber Alchemy](series/cyber-alchemy.md)
 Circuit board coin motifs — pads, vias, and traces reinterpreting numerical and celestial pattern layouts. <br>
@@ -190,11 +190,11 @@ Circuit board coin motifs — pads, vias, and traces reinterpreting numerical an
 
 
 
-*The Map of Wealth, Written in the Stars.*
+*The Map of Symbols, Written in the Stars.*
 
-Created by Dan, the Star Coin Alchemist and Astrological Alchemist.
+Created by Dan, the Star Coin Visual Art Practitioner.
 
-Some works in this repository are protected under a Creative Commons Attribution-NonCommercial 4.0 International License.The full license text is available at `https://creativecommons.org/licenses/by-nc/4.0/`.
+Some works in this repository are protected under a Creative Commons Attribution-NonCommercial 4.0 International License. The full license text is available at `https://creativecommons.org/licenses/by-nc/4.0/`.
 
 You are free to share and adapt these works, provided you give appropriate credit to the author (Chen Dan / FortuneCord), and not for commercial purposes.
 
