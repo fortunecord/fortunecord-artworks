@@ -11,7 +11,9 @@ b. **Evolutionary Origin:** Cyber Coins are circuitized variants of base coin fo
 Suitable for **starlight headliners**, **building ceilings**, **luxury interior design**, laser engraving, light installations, and night tourism.
 
 
-
+<img width="650" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-heart-shaped-yin-yang-cord-frame-taiji.png" alt="cyber alchemy coin heart shaped yin yang cord frame taiji line art, celestial ceiling pattern for starlight headliner and architectural ceiling">
+<img width="650" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-heart-shaped-yin-yang-line-frame-taiji.png" alt="cyber alchemy coin heart shaped yin yang line frame taiji line art, star coin pattern for luxury interior and laser engraving">
+<img width="650" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-stellar-radiance-square-hole-heart-coin-straight-ray-1.png" alt="cyber alchemy coin stellar radiance square hole heart coin straight ray line art, celestial ceiling pattern for starlight headliner and luxury interior design">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-28-mansions-east-azure-dragon.png" alt="cyber alchemy coin 28 mansions east azure dragon line art, circuit star map for car starlight headliner and architectural ceiling">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-28-mansions-north-black-tortoise.png" alt="cyber alchemy coin 28 mansions north black tortoise line art, celestial ceiling design for luxury interior and laser engraving">
 <img width="700" src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-28-mansions-south-vermilion-bird.png" alt="cyber alchemy coin 28 mansions south vermilion bird line art, star coin pattern for automotive headliner and building ceiling">
