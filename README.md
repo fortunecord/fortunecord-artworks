@@ -173,8 +173,8 @@ Bagua and coin-cord, Eastern wisdom.<br>
 <img src="https://fortunecord.github.io/fortunecord-artworks/2-bagua-collection/1-fortune-cord-round-coin-bagua-v1-v6/fortune-cord-prenatal-bagua-single-coin-single-line-supporting-from-below.jpg" width="380" alt="Bagua star coin line art - starlight headliner art">
 
 ### [Stellar Radiance](series/stellar-radiance.md)
-Star Coin Pulse: A coin at the center, rays radiating outward — each ray a cord or chain.<br>
-<img src="https://fortunecord.github.io/fortunecord-artworks/10-stellar-radiance/star-coin-pulse-floral-perforation-round-coin-figure-eight-cord-ray.jpg" width="380" alt="star coin pulse line art - starlight headliner pattern">
+Star Coin Pulse: A heart-coin at the center, rays radiating outward — each ray a cord or chain.<br>
+<img src="https://fortunecord.github.io/fortunecord-artworks/13-cyber-alchemy/cyber-alchemy-coin-stellar-radiance-square-hole-heart-coin-straight-ray-1.png" width="380" alt="heart coin pulse line art - starlight headliner pattern">
 
 ### [Digits](series/digits.md)
 Digits 0–9 in cord and coin. <br>
