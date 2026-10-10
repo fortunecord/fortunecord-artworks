@@ -8,7 +8,7 @@ It reimagines constellations and cultural symbols – Big Dipper, 12 Zodiac Sign
 
 This visual system establishes an expression system for star image representation based on the dynamic arrangement of nodes and paths.
 
-**Potential Applications**: <br>
+Potential Applications: <br>
 **Immersive Spaces**: Night tourism installations, immersive environments, light & shadow digital art.<br>
 **Industrial Design**: Automotive interiors (starlight headliners), architectural ceilings patterns.<br>
 **Fashion & Lifestyle**: Jewelry & stone carvings, stationery printing, art ornaments, confectionery, textile printing.<br>
