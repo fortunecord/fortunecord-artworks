@@ -12,7 +12,7 @@ Potential Applications: <br>
 **Immersive Spaces**: Night tourism, immersive environments, projection walls, light & shadow digital art.<br>
 **Industrial Design**: Automotive interiors (starlight headliners), architectural ceilings patterns.<br>
 **Fashion & Lifestyle**: Jewelry & stone carvings, stationery printing, art ornaments, confectionery, textile printing.<br>
-**Digital Assets**: Blockchain Art (NFTs), metaverse navigation maps, game level design.<br>
+**Digital Assets**: Blockchain art (NFTs), metaverse navigation maps, game level design.<br>
 **UI/UX**: Dynamic connecting systems for data visualization.
 
 The artist reserves all rights for on-chain issuance and metaverse deployment.  
